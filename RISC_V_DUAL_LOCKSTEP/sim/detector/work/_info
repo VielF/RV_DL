@@ -1,0 +1,339 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/leds/Desktop/BraveSatellite/Integration
+Ecounter
+Z0 w1631210101
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 247
+Z5 d/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector
+Z6 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/counter.vhd
+Z7 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/counter.vhd
+l0
+L5 1
+V<cJF?FfH_InPYoEE8z5dU3
+!s100 RV;6F5@19XCN^H>f7N>cl3
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1631215567
+!i10b 1
+Z10 !s108 1631215567.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/counter.vhd|
+Z12 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/counter.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Adescription
+R1
+R2
+R3
+R4
+Z15 DEx4 work 7 counter 0 22 <cJF?FfH_InPYoEE8z5dU3
+!i122 247
+l19
+Z16 L17 19
+VCe9S=WE8ZB`>UmiPLd6Z22
+!s100 YITNmdF<PN[6Z;6U@EZJa0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Edetector
+Z17 w1631206201
+Z18 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R3
+R4
+!i122 246
+R5
+Z19 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/detector.vhd
+Z20 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/detector.vhd
+l0
+L6 1
+VHLSVDGM<=@h58I3Qmg_hG1
+!s100 RenFND?fj71H1WRGG2<YK0
+R8
+32
+R9
+!i10b 1
+R10
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/detector.vhd|
+Z22 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/detector.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R18
+R3
+R4
+Z23 DEx4 work 8 detector 0 22 HLSVDGM<=@h58I3Qmg_hG1
+!i122 246
+l42
+L38 66
+VOL8cWK>gho>LDZT@g3_o43
+!s100 mOmKICn>?TjJ2fPR_`iBc0
+R8
+32
+R9
+!i10b 1
+R10
+R21
+R22
+!i113 1
+R13
+R14
+Ereg_1b
+Z24 w1631211652
+R3
+R4
+!i122 248
+R5
+Z25 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/reg_1b.vhd
+Z26 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/reg_1b.vhd
+l0
+L4 1
+V?_VoGJ>:hzD6fh4e;S`J^0
+!s100 ?D6lTFkP[8:b5d^>DfAV]3
+R8
+32
+R9
+!i10b 1
+R10
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/reg_1b.vhd|
+Z28 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/reg_1b.vhd|
+!i113 1
+R13
+R14
+Adescription
+R3
+R4
+Z29 DEx4 work 6 reg_1b 0 22 ?_VoGJ>:hzD6fh4e;S`J^0
+!i122 248
+l16
+L14 19
+V6e]_aAaWSWDaX>R1Jge^82
+!s100 aPYXVGf3CXGMYT_zUFMnY1
+R8
+32
+R9
+!i10b 1
+R10
+R27
+R28
+!i113 1
+R13
+R14
+Ereg_pp
+Z30 w1631211469
+R3
+R4
+!i122 166
+R5
+Z31 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/reg_pp.vhd
+Z32 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/reg_pp.vhd
+l0
+L4 1
+VdQ^Wj_Yo?PJA?:ZN;5gkK3
+!s100 YMXXlSIoR]]=W28R`B[l?3
+R8
+32
+Z33 !s110 1631215217
+!i10b 1
+Z34 !s108 1631215217.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/reg_pp.vhd|
+Z36 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/reg_pp.vhd|
+!i113 1
+R13
+R14
+Adescription
+R3
+R4
+DEx4 work 6 reg_pp 0 22 dQ^Wj_Yo?PJA?:ZN;5gkK3
+!i122 166
+l19
+R16
+Vf;ELUYkXn09i;_=@08gkC2
+!s100 jNT;E:4a>[9bTIkhngF3_1
+R8
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R13
+R14
+Etb_detector
+Z37 w1631206408
+R18
+R3
+R4
+!i122 244
+R5
+Z38 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/tb_detector.vhd
+Z39 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/tb_detector.vhd
+l0
+L7 1
+VaDeTV<2Ug=3:KzN:kd54e2
+!s100 Uj6fkYbIEHTed^3MdiFES2
+R8
+32
+R9
+!i10b 1
+R10
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/tb_detector.vhd|
+Z41 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/tb_detector.vhd|
+!i113 1
+R13
+R14
+Abehaviour
+R23
+R18
+R3
+R4
+DEx4 work 11 tb_detector 0 22 aDeTV<2Ug=3:KzN:kd54e2
+!i122 244
+l37
+L10 236
+VS:FSgb5adAT5lA8;I62m82
+!s100 z[^do`>cl:zXK=bCK0Rfc0
+R8
+32
+R9
+!i10b 1
+R10
+R40
+R41
+!i113 1
+R13
+R14
+Etb_top_detector
+Z42 w1631215561
+R18
+R3
+R4
+!i122 245
+R5
+Z43 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/tb_top_detector.vhd
+Z44 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/tb_top_detector.vhd
+l0
+L7 1
+V?kC9g01>C:eQnU_zoA4iA0
+!s100 `HDTWRKNmWemeDgzPEbSz1
+R8
+32
+R9
+!i10b 1
+R10
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/tb_top_detector.vhd|
+Z46 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/tb_top_detector.vhd|
+!i113 1
+R13
+R14
+Abeh
+Z47 DEx4 work 12 top_detector 0 22 nVU>A3XRz931=j9l_@FD>0
+R18
+R3
+R4
+Z48 DEx4 work 15 tb_top_detector 0 22 ?kC9g01>C:eQnU_zoA4iA0
+!i122 245
+l35
+L10 222
+VjgHX0OaV;lAl]Z:cjN^;31
+!s100 RGf_8jB4T?PhTcAF5`zLN0
+R8
+32
+R9
+!i10b 1
+R10
+R45
+R46
+!i113 1
+R13
+R14
+Abehaviour
+DEx4 work 12 top_detector 0 22 58?@DjQ_o]nFa1nQYg^li0
+R18
+R3
+R4
+R48
+!i122 194
+l35
+L10 224
+VNah4XnHE45kXlTzREV>`23
+!s100 9I@[<8cLG@EJUB9la<ohE1
+R8
+32
+!s110 1631215368
+!i10b 1
+!s108 1631215368.000000
+R45
+R46
+!i113 1
+R13
+R14
+w1631215333
+Etop_detector
+Z49 w1631215526
+R18
+R3
+R4
+!i122 249
+R5
+Z50 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/top_detector_v2.vhd
+Z51 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/top_detector_v2.vhd
+l0
+L6 1
+VnVU>A3XRz931=j9l_@FD>0
+!s100 ]IWX?<@J<XKN7Ri[hW18j3
+R8
+32
+R9
+!i10b 1
+R10
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/top_detector_v2.vhd|
+Z53 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/top_detector_v2.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R23
+R29
+R1
+R2
+R15
+R18
+R3
+R4
+R47
+!i122 249
+l39
+Z54 L34 51
+Z55 VYJ[JzlzeHRmcWIUOL?oC73
+Z56 !s100 Td:dN^Xfam;cVhGUeLXI]1
+R8
+32
+R9
+!i10b 1
+R10
+R52
+R53
+!i113 1
+R13
+R14

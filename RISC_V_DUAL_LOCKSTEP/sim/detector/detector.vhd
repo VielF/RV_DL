@@ -5,7 +5,7 @@ use work.all;
 
 entity detector is
     generic (
-        NUMBER_FAULTS : natural := 7
+        NUMBER_FAULTS : integer := 7
     );
 	port (
 		i_clk : in std_logic;
@@ -31,12 +31,12 @@ entity detector is
         i_COUNTER_COUNT_FAULTS      : in  std_logic_vector(3 downto 0); 
         o_RST_RV                    : out std_logic;
         o_ENA_REG_MUX_IM_CTRL       : out std_logic;
-        o_ENA_COUNTER_COUNT_FAULTS  : out std_logic;
+        o_ENA_COUNTER_COUNT_FAULTS  : out std_logic
 	);
 end entity detector;
 
 architecture Behavioral of detector is
-	type operational_states is (start, detection, diff_detetction, im_detection, set_im_backup);
+	type operational_states is (start, detection, diff_detection, im_detection, set_im_backup);
 	signal current_state, next_state : operational_states := start;
 
 begin
@@ -60,13 +60,13 @@ begin
 
 
             when detection =>
-                if i_reg1_rd_core0 = i_reg1_rd_core1 or 
-                   i_reg2_rd_core0 = i_reg2_rd_core1 or
-                   i_reg1_wr_core0 = i_reg1_wr_core1 or
-                   i_dm_core0 = i_im_core1 or
-                   i_pc_core0 = i_pc_core1) then
+                if i_reg1_rd_core0 /= i_reg1_rd_core1 or 
+                   i_reg2_rd_core0 /= i_reg2_rd_core1 or
+                   i_reg1_wr_core0 /= i_reg1_wr_core1 or
+                   i_dm_core0 /= i_im_core1 or
+                   i_pc_core0 /= i_pc_core1 then
                     next_state <= diff_detection;
-                elsif i_im_core0 = i_im_core1 then
+                elsif i_im_core0 /= i_im_core1 then
                     next_state <= im_detection;
                 else
                     next_state <= detection;
@@ -77,7 +77,7 @@ begin
                 next_state <= detection;
 
             when im_detection =>
-                if i_COUNTER_COUNT_FAULTS < NUMBER_FAULTS then
+                if i_COUNTER_COUNT_FAULTS < std_logic_vector(to_unsigned(NUMBER_FAULTS,4)) then
                     next_state <= detection;
                 else
                     next_state <= set_im_backup;
