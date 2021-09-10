@@ -10,7 +10,7 @@ entity mux_IM is
 	);
 end mux_IM;
 
-architecture description of mux_IM is
+architecture description of reg_1b is
 
 begin
 	

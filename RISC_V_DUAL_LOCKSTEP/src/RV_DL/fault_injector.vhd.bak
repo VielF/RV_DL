@@ -13,6 +13,6 @@ architecture description of fault_injector is
 
 begin
 	
-    o_data <= i_data when i_ena_fault = '0' else (i_data(31 downto 20) & not(i_data(19 downto 0)));
+    o_data <= i_data when i_sel = '0' else (i_data(31 downto 20) & not(i_data(19 downto 0)));
 
 end description;

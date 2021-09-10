@@ -32,12 +32,12 @@ begin
 
        w_data_in <= x"FFFFFFFF";
        w_sel_in <= '0';
-       assert(w_data_out = x"FFFFFFFF") report "Fail test 0" severity error;
+       assert(w_data = x"FFFFFFFF") report "Fail test 0" severity error;
        wait for 1 ns;
 
        w_data_in <= x"FFFFFFFF";
        w_sel_in <= '1';
-       assert(w_data_out = x"FFFF0000") report "Fail test 1" severity error;
+       assert(w_data = x"FFFF0000") report "Fail test 1" severity error;
        wait for 1 ns;
 
 

@@ -36,13 +36,13 @@ begin
 
        w_IM_core_in <= x"0000FFFF";
        w_IM_core_in <= x"A00AA00A";
-       w_sel_in <= '0';
+       w_sel_in <= '0'
        assert(w_IM_out = x"0000FFFF") report "Fail test 0" severity error;
        wait for 1 ns;
 
        w_IM_core_in <= x"0000FFFF";
        w_IM_core_in <= x"A00AA00A";
-       w_sel_in <= '1';
+       w_sel_in <= '1'
        assert(w_IM_out = x"A00AA00A") report "Fail test 1" severity error;
        wait for 1 ns;
 
