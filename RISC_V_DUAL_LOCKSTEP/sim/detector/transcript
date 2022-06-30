@@ -1,0 +1,2691 @@
+# Loading project detector
+# Compile of top_detector_v2.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of top_detector_v2.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd failed with 2 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of reg_pp.vhd was successful.
+# Compile of top_detector.vhd failed with 2 errors.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd failed with 2 errors.
+# 8 compiles, 2 failed with 4 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of reg_pp.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd failed with 2 errors.
+# 7 compiles, 1 failed with 2 errors.
+# Compile of top_detector_v2.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of top_detector_v2.vhd failed with 1 errors.
+# Compile of top_detector_v2.vhd failed with 1 errors.
+# Compile of top_detector_v2.vhd failed with 1 errors.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of top_detector_v2.vhd failed with 1 errors.
+# Compile of top_detector_v2.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd failed with 1 errors.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_top_detector.vhd failed with 2 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of reg_pp.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_top_detector.vhd failed with 1 errors.
+# 8 compiles, 1 failed with 1 error.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+vsim work.tb_top_detector
+# vsim work.tb_top_detector 
+# Start time: 16:17:44 on Sep 09,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_top_detector(behaviour)
+# ** Error: (vsim-3173) Entity '/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/work.top_detector' has no architecture.
+# Load interrupted
+# Error loading design
+# End time: 16:17:45 on Sep 09,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 32
+# Compile of tb_top_detector.vhd was successful.
+vsim work.tb_top_detector
+# vsim work.tb_top_detector 
+# Start time: 16:18:43 on Sep 09,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_top_detector(behaviour)
+# ** Error: (vsim-3173) Entity '/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/work.top_detector' has no architecture.
+# Load interrupted
+# Error loading design
+# End time: 16:18:43 on Sep 09,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg1b.vhd failed with 1 errors.
+# Compile of reg4b.vhd failed with 1 errors.
+# Compile of reg_1b.vhd was successful.
+# Compile of reg_pp.vhd was successful.
+# Compile of top_detector.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd was successful.
+# 11 compiles, 3 failed with 4 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg1b.vhd failed with 1 errors.
+# Compile of reg4b.vhd failed with 1 errors.
+# Compile of reg_1b.vhd was successful.
+# Compile of reg_pp.vhd was successful.
+# Compile of top_detector.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd was successful.
+# 11 compiles, 3 failed with 4 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg1b.vhd failed with 1 errors.
+# Compile of reg4b.vhd failed with 1 errors.
+# Compile of reg_1b.vhd was successful.
+# Compile of reg_pp.vhd was successful.
+# Compile of top_detector.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd was successful.
+# 11 compiles, 3 failed with 4 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg1b.vhd failed with 1 errors.
+# Compile of reg4b.vhd failed with 1 errors.
+# Compile of reg_1b.vhd was successful.
+# Compile of reg_pp.vhd was successful.
+# Compile of top_detector.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd was successful.
+# 11 compiles, 3 failed with 4 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg1b.vhd failed with 1 errors.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd was successful.
+# 9 compiles, 2 failed with 3 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector.vhd failed with 2 errors.
+# Compile of top_detector_v2.vhd was successful.
+# 8 compiles, 1 failed with 2 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+vsim work.tb_top_detector
+# vsim work.tb_top_detector 
+# Start time: 16:21:45 on Sep 09,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_top_detector(behaviour)
+# ** Error: (vsim-3173) Entity '/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/work.top_detector' has no architecture.
+# Load interrupted
+# Error loading design
+# End time: 16:21:45 on Sep 09,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 16
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+vsim work.tb_top_detector
+# vsim work.tb_top_detector 
+# Start time: 16:22:50 on Sep 09,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_top_detector(behaviour)
+# ** Error: (vsim-3173) Entity '/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/work.top_detector' has no architecture.
+# Load interrupted
+# Error loading design
+# End time: 16:22:51 on Sep 09,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 2
+vsim work.tb_top_detector(behaviour)
+# vsim work.tb_top_detector(behaviour) 
+# Start time: 16:22:53 on Sep 09,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_top_detector(behaviour)
+# ** Error: (vsim-3173) Entity '/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/work.top_detector' has no architecture.
+# Load interrupted
+# Error loading design
+# End time: 16:22:53 on Sep 09,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd failed with 1 errors.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# 7 compiles, 1 failed with 1 error.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+vsim work.tb_top_detector(beh)
+# vsim work.tb_top_detector(beh) 
+# Start time: 16:23:33 on Sep 09,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_top_detector(beh)
+# ** Error: (vsim-3173) Entity '/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/work.top_detector' has no architecture.
+# Load interrupted
+# Error loading design
+# End time: 16:23:33 on Sep 09,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 3
+vsim work.top_detector
+# vsim work.top_detector 
+# Start time: 16:23:50 on Sep 09,2021
+# Loading std.standard
+# ** Error: (vsim-3173) Entity '/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/work.top_detector' has no architecture.
+# Error loading design
+# End time: 16:23:50 on Sep 09,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vsim work.top_detector
+# vsim work.top_detector 
+# Start time: 16:23:54 on Sep 09,2021
+# Loading std.standard
+# ** Error: (vsim-3173) Entity '/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/work.top_detector' has no architecture.
+# Error loading design
+# End time: 16:23:54 on Sep 09,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vsim work.top_detector
+# vsim work.top_detector 
+# Start time: 16:23:54 on Sep 09,2021
+# Loading std.standard
+# ** Error: (vsim-3173) Entity '/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/detector/work.top_detector' has no architecture.
+# Error loading design
+# End time: 16:23:54 on Sep 09,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+# Compile of counter.vhd was successful.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+vsim work.tb_top_detector(beh)
+# vsim work.tb_top_detector(beh) 
+# Start time: 16:25:40 on Sep 09,2021
+# Loading std.standard
+# ** Error: (vsim-13) Recompile work.tb_top_detector(beh) because work.top_detector has changed.
+# Error loading design
+# End time: 16:25:40 on Sep 09,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 5
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd failed with 1 errors.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# 7 compiles, 1 failed with 1 error.
+# Compile of counter.vhd was successful.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+vsim work.tb_top_detector
+# vsim work.tb_top_detector 
+# Start time: 16:26:11 on Sep 09,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_top_detector(beh)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.top_detector(behavioral)
+# Loading work.counter(description)
+# Loading work.reg_1b(description)
+# Loading work.detector(behavioral)
+add wave -position end  sim:/tb_top_detector/clk
+add wave -position end  sim:/tb_top_detector/rst
+add wave -position end  sim:/tb_top_detector/w_im_core0_in
+add wave -position end  sim:/tb_top_detector/w_dm_core0_in
+add wave -position end  sim:/tb_top_detector/w_reg1_rd_core0_in
+add wave -position end  sim:/tb_top_detector/w_reg2_rd_core0_in
+add wave -position end  sim:/tb_top_detector/w_reg1_wr_core0_in
+add wave -position end  sim:/tb_top_detector/w_pc_core0_in
+add wave -position end  sim:/tb_top_detector/w_im_core1_in
+add wave -position end  sim:/tb_top_detector/w_dm_core1_in
+add wave -position end  sim:/tb_top_detector/w_reg1_rd_core1_in
+add wave -position end  sim:/tb_top_detector/w_reg2_rd_core1_in
+add wave -position end  sim:/tb_top_detector/w_reg1_wr_core1_in
+add wave -position end  sim:/tb_top_detector/w_pc_core1_in
+add wave -position end  sim:/tb_top_detector/w_RST_RV
+add wave -position end  sim:/tb_top_detector/w_MUX_IM_CTRL
+add wave -position end  sim:/tb_top_detector/TOP_DETECTOR/u_DETECTOR/current_state
+add wave -position end  sim:/tb_top_detector/TOP_DETECTOR/u_DETECTOR/next_state
+add wave -position end  sim:/tb_top_detector/TOP_DETECTOR/u_DETECTOR/o_RST_RV
+add wave -position end  sim:/tb_top_detector/TOP_DETECTOR/u_DETECTOR/o_ENA_REG_MUX_IM_CTRL
+add wave -position end  sim:/tb_top_detector/TOP_DETECTOR/u_DETECTOR/o_ENA_COUNTER_COUNT_FAULTS
+run
+run
+run
+# ** Error: Fail test IM complete
+#    Time: 2160 ns  Iteration: 0  Instance: /tb_top_detector
+# ** Error: Fail test IM complete Final
+#    Time: 2240 ns  Iteration: 0  Instance: /tb_top_detector
+run
+# ** Error: Fail test IM complete
+#    Time: 3280 ns  Iteration: 0  Instance: /tb_top_detector
+# ** Error: Fail test IM complete Final
+#    Time: 3360 ns  Iteration: 0  Instance: /tb_top_detector
+run
+# ** Error: Fail test DM
+#    Time: 4720 ns  Iteration: 0  Instance: /tb_top_detector
+# ** Error: Fail test REG1_RD
+#    Time: 4800 ns  Iteration: 0  Instance: /tb_top_detector
+# ** Error: Fail test REG2_RD
+#    Time: 4880 ns  Iteration: 0  Instance: /tb_top_detector
+# ** Error: Fail test REG1_WR
+#    Time: 4960 ns  Iteration: 0  Instance: /tb_top_detector
+quit -sim
+# End time: 18:23:58 on Sep 09,2021, Elapsed time: 1:57:47
+# Errors: 8, Warnings: 4
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd failed with 1 errors.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 7 errors.
+# Compile of tb_mux_IM.vhd failed with 10 errors.
+# Compile of tb_register_file.vhd was successful.
+# 12 compiles, 4 failed with 19 errors.
+# Compile of tb_RV.vhd failed with 1 errors.
+# Compile of tb_RV.vhd failed with 4 errors.
+# Compile of tb_RV.vhd failed with 4 errors.
+# Compile of tb_RV.vhd failed with 4 errors.
+# Compile of tb_RV.vhd failed with 3 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd failed with 3 errors.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 7 errors.
+# Compile of tb_mux_IM.vhd failed with 10 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 42 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd failed with 3 errors.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# 40 compiles, 6 failed with 66 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 7 errors.
+# Compile of tb_mux_IM.vhd failed with 10 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd failed with 3 errors.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# 40 compiles, 5 failed with 27 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 7 errors.
+# Compile of tb_mux_IM.vhd failed with 10 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd failed with 3 errors.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# 40 compiles, 5 failed with 27 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 7 errors.
+# Compile of tb_mux_IM.vhd failed with 10 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd failed with 3 errors.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# 40 compiles, 5 failed with 27 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 7 errors.
+# Compile of tb_mux_IM.vhd failed with 10 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd failed with 3 errors.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# 40 compiles, 5 failed with 27 errors.
+# Compile of tb_mux_IM.vhd failed with 10 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 7 errors.
+# Compile of tb_mux_IM.vhd failed with 7 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd failed with 3 errors.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# 40 compiles, 5 failed with 24 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 7 errors.
+# Compile of tb_mux_IM.vhd failed with 7 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd failed with 3 errors.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd failed with 2 errors.
+# Compile of mux_IM.vhd failed with 5 errors.
+# 42 compiles, 7 failed with 31 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 4 errors.
+# Compile of tb_mux_IM.vhd failed with 4 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd failed with 3 errors.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd failed with 2 errors.
+# Compile of mux_IM.vhd was successful.
+# 42 compiles, 6 failed with 20 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 4 errors.
+# Compile of tb_mux_IM.vhd failed with 4 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd failed with 3 errors.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# 42 compiles, 5 failed with 18 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 4 errors.
+# Compile of tb_mux_IM.vhd failed with 4 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd failed with 3 errors.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# 42 compiles, 5 failed with 18 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 4 errors.
+# Compile of tb_mux_IM.vhd failed with 4 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd failed with 3 errors.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# Compile of progmem.vhd was successful.
+# 43 compiles, 5 failed with 18 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 4 errors.
+# Compile of tb_mux_IM.vhd failed with 4 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# Compile of progmem.vhd was successful.
+# 43 compiles, 4 failed with 15 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 4 errors.
+# Compile of tb_mux_IM.vhd failed with 2 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# Compile of progmem.vhd was successful.
+# 43 compiles, 4 failed with 13 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 4 errors.
+# Compile of tb_mux_IM.vhd was successful.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# Compile of progmem.vhd was successful.
+# 43 compiles, 3 failed with 11 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 4 errors.
+# Compile of tb_mux_IM.vhd was successful.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# Compile of progmem.vhd was successful.
+# 43 compiles, 3 failed with 11 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 4 errors.
+# Compile of tb_mux_IM.vhd was successful.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# Compile of progmem.vhd was successful.
+# 43 compiles, 3 failed with 11 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd failed with 4 errors.
+# Compile of tb_mux_IM.vhd was successful.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# Compile of progmem.vhd was successful.
+# 43 compiles, 3 failed with 11 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd was successful.
+# Compile of tb_mux_IM.vhd was successful.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# Compile of progmem.vhd was successful.
+# 43 compiles, 2 failed with 7 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector_v2.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_fault_injector.vhd was successful.
+# Compile of tb_mux_IM.vhd was successful.
+# Compile of tb_register_file.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd was successful.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# Compile of progmem.vhd was successful.
+# 43 compiles, 1 failed with 1 error.
+vsim work.tb_rv
+# vsim work.tb_rv 
+# Start time: 18:36:40 on Sep 09,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_rv(behaviour)
+# Loading work.microcontroller(structural)
+# Loading work.controller(behavioral)
+# Loading work.datapath(structural)
+# Loading work.program_counter(behavioral)
+# Loading work.mux_2_1(behavioral)
+# Loading work.reg32b(description)
+# Loading work.progmem_interface(behavioural)
+# Loading work.progmem(behavioural)
+# Loading work.if_id_div(behavioral)
+# Loading work.mux_3_1(behavioral)
+# Loading work.register_file(behavioral)
+# Loading work.reg32b_falling_edge(description)
+# Loading work.mux_32_1(behavioral)
+# Loading work.id_ex_div(behavioral)
+# Loading work.reg4b(description)
+# Loading work.reg1b(description)
+# Loading work.reg3b(description)
+# Loading work.reg2b(description)
+# Loading work.reg5b(description)
+# Loading work.forwarding_unit(structural)
+# Loading work.mux_5_1(behavioral)
+# Loading work.alu(behavioral)
+# Loading work.jump_target_unit(behavioral)
+# Loading work.adder(behavioral)
+# Loading work.ex_mem_div(behavioral)
+# Loading work.flushing_unit(behavioural)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.datamem_interface(behavioural)
+# Loading work.datamem(behavioural)
+# Loading work.mem_wb_div(behavioral)
+add wave -position end  sim:/tb_rv/clk
+add wave -position end  sim:/tb_rv/rst
+add wave -position end  sim:/tb_rv/w_debug_pc_output
+add wave -position end  sim:/tb_rv/w_debug_regfile_x31_output
+add wave -position end  sim:/tb_rv/w_debug_regfile_x1_output
+add wave -position end  sim:/tb_rv/w_debug_regfile_x2_output
+add wave -position end  sim:/tb_rv/w_debug_ALU_output
+add wave -position end  sim:/tb_rv/w_debug_regfile_write
+add wave -position end  sim:/tb_rv/w_debug_ALU_input_0
+add wave -position end  sim:/tb_rv/w_debug_ALU_input_1
+add wave -position end  sim:/tb_rv/w_debug_reg_file_read_address_0
+add wave -position end  sim:/tb_rv/w_debug_reg_file_read_address_1
+add wave -position end  sim:/tb_rv/w_debug_mux0_sel
+add wave -position end  sim:/tb_rv/w_debug_immediate
+add wave -position end  sim:/tb_rv/w_debug_ALU_operation
+add wave -position end  sim:/tb_rv/w_debug_forward_mux_0
+add wave -position end  sim:/tb_rv/w_debug_forward_mux_1
+add wave -position end  sim:/tb_rv/w_debug_reg_file_read_address_0_ID_EXE
+add wave -position end  sim:/tb_rv/w_debug_reg_file_write_address_EX_MEM
+add wave -position end  sim:/tb_rv/w_debug_mux0_sel_MEM_WB
+add wave -position end  sim:/tb_rv/w_debug_reg_file_write_MEM_WB
+add wave -position end  sim:/tb_rv/w_debug_reg_file_write_address_MEM_WB
+add wave -position end  sim:/tb_rv/w_debug_ALU_output_MEM_WB
+add wave -position end  sim:/tb_rv/w_debug_ALU_output_EX_MEM
+add wave -position end  sim:/tb_rv/w_debug_register_file_output_0
+add wave -position end  sim:/tb_rv/w_debug_register_file_output_1
+add wave -position end  sim:/tb_rv/w_debug_register_file_output_0_ID_EX
+add wave -position end  sim:/tb_rv/w_debug_register_file_output_1_ID_EX
+add wave -position end  sim:/tb_rv/w_debug_instruction
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Error: Fail test PC counter
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test ALU2
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail Instru
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 140 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 200 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 260 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 320 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 380 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 440 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 500 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 560 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 620 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 680 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 740 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 800 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 860 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 920 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 980 ns  Iteration: 0  Instance: /tb_rv
+run
+# ** Error: Fail test PC counter
+#    Time: 1040 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1100 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1160 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1220 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1280 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1340 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1400 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1460 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1520 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1580 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1640 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1700 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1760 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1820 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1880 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 1940 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2 us  Iteration: 0  Instance: /tb_rv
+run
+# ** Error: Fail test PC counter
+#    Time: 2060 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2120 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2180 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2240 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2300 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2360 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2420 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2480 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2540 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2600 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2660 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2720 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2780 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2840 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2900 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 2960 ns  Iteration: 0  Instance: /tb_rv
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Error: Fail test PC counter
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test ALU2
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail Instru
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 140 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 200 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 260 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 320 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 380 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 440 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 500 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 560 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 620 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 680 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 740 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 800 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 860 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 920 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 980 ns  Iteration: 0  Instance: /tb_rv
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Error: Fail test PC counter
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test ALU2
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail Instru
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 140 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 200 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 260 ns  Iteration: 0  Instance: /tb_rv
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Error: Fail test PC counter
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test ALU2
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail Instru
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 140 ns  Iteration: 0  Instance: /tb_rv
+run
+# ** Error: Fail test PC counter
+#    Time: 200 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 260 ns  Iteration: 0  Instance: /tb_rv
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Error: Fail test PC counter
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test ALU2
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail Instru
+#    Time: 80 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 140 ns  Iteration: 0  Instance: /tb_rv
+quit -sim
+# End time: 19:12:56 on Sep 09,2021, Elapsed time: 0:36:16
+# Errors: 4, Warnings: 9
+# Compile of tb_RV.vhd was successful.
+vsim work.tb_rv
+# vsim work.tb_rv 
+# Start time: 19:13:15 on Sep 09,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_rv(behaviour)
+# Loading work.microcontroller(structural)
+# Loading work.controller(behavioral)
+# Loading work.datapath(structural)
+# Loading work.program_counter(behavioral)
+# Loading work.mux_2_1(behavioral)
+# Loading work.reg32b(description)
+# Loading work.progmem_interface(behavioural)
+# Loading work.progmem(behavioural)
+# Loading work.if_id_div(behavioral)
+# Loading work.mux_3_1(behavioral)
+# Loading work.register_file(behavioral)
+# Loading work.reg32b_falling_edge(description)
+# Loading work.mux_32_1(behavioral)
+# Loading work.id_ex_div(behavioral)
+# Loading work.reg4b(description)
+# Loading work.reg1b(description)
+# Loading work.reg3b(description)
+# Loading work.reg2b(description)
+# Loading work.reg5b(description)
+# Loading work.forwarding_unit(structural)
+# Loading work.mux_5_1(behavioral)
+# Loading work.alu(behavioral)
+# Loading work.jump_target_unit(behavioral)
+# Loading work.adder(behavioral)
+# Loading work.ex_mem_div(behavioral)
+# Loading work.flushing_unit(behavioural)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.datamem_interface(behavioural)
+# Loading work.datamem(behavioural)
+# Loading work.mem_wb_div(behavioral)
+add wave -position end  sim:/tb_rv/clk
+add wave -position end  sim:/tb_rv/rst
+add wave -position end  sim:/tb_rv/w_debug_pc_output
+add wave -position end  sim:/tb_rv/w_debug_regfile_x31_output
+add wave -position end  sim:/tb_rv/w_debug_regfile_x1_output
+add wave -position end  sim:/tb_rv/w_debug_regfile_x2_output
+add wave -position end  sim:/tb_rv/w_debug_ALU_output
+add wave -position end  sim:/tb_rv/w_debug_regfile_write
+add wave -position end  sim:/tb_rv/w_debug_ALU_input_0
+add wave -position end  sim:/tb_rv/w_debug_ALU_input_1
+add wave -position end  sim:/tb_rv/w_debug_reg_file_read_address_0
+add wave -position end  sim:/tb_rv/w_debug_reg_file_read_address_1
+add wave -position end  sim:/tb_rv/w_debug_mux0_sel
+add wave -position end  sim:/tb_rv/w_debug_immediate
+add wave -position end  sim:/tb_rv/w_debug_ALU_operation
+add wave -position end  sim:/tb_rv/w_debug_forward_mux_0
+add wave -position end  sim:/tb_rv/w_debug_forward_mux_1
+add wave -position end  sim:/tb_rv/w_debug_reg_file_read_address_0_ID_EXE
+add wave -position end  sim:/tb_rv/w_debug_reg_file_write_address_EX_MEM
+add wave -position end  sim:/tb_rv/w_debug_mux0_sel_MEM_WB
+add wave -position end  sim:/tb_rv/w_debug_reg_file_write_MEM_WB
+add wave -position end  sim:/tb_rv/w_debug_reg_file_write_address_MEM_WB
+add wave -position end  sim:/tb_rv/w_debug_ALU_output_MEM_WB
+add wave -position end  sim:/tb_rv/w_debug_ALU_output_EX_MEM
+add wave -position end  sim:/tb_rv/w_debug_register_file_output_0
+add wave -position end  sim:/tb_rv/w_debug_register_file_output_1
+add wave -position end  sim:/tb_rv/w_debug_register_file_output_0_ID_EX
+add wave -position end  sim:/tb_rv/w_debug_register_file_output_1_ID_EX
+add wave -position end  sim:/tb_rv/w_debug_instruction
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_rv/DUT_RV/datapath_0/datamem_module_0/datamem_3
+# ** Error: Fail ALU_output_EX_MEM
+#    Time: 20 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 60 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test ALUout
+#    Time: 60 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test ALUin2
+#    Time: 60 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail reg_file_read_address_0
+#    Time: 60 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail reg_file_read_address_1
+#    Time: 60 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail immediate
+#    Time: 60 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail Instru
+#    Time: 60 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail ALU_output_EX_MEM
+#    Time: 60 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test PC counter
+#    Time: 120 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test ALUout
+#    Time: 120 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail test ALUin2
+#    Time: 120 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail reg_file_read_address_0
+#    Time: 120 ns  Iteration: 0  Instance: /tb_rv
+# ** Error: Fail ALU_output_EX_MEM
+#    Time: 120 ns  Iteration: 0  Instance: /tb_rv
+quit -sim
+# End time: 22:57:36 on Sep 09,2021, Elapsed time: 3:44:21
+# Errors: 14, Warnings: 10
+# Compile of tb_adder_RV.vhd failed with 8 errors.
+# Compile of tb_ALU_RV.vhd failed with 1 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_fault_injector.vhd was successful.
+# Compile of tb_mux_IM.vhd was successful.
+# Compile of tb_mux_RV.vhd failed with 48 errors.
+# Compile of tb_reg_RV.vhd failed with 20 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# 47 compiles, 6 failed with 84 errors.
+# Compile of tb_adder_RV.vhd failed with 8 errors.
+# Compile of tb_ALU_RV.vhd failed with 1 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_fault_injector.vhd was successful.
+# Compile of tb_mux_IM.vhd was successful.
+# Compile of tb_mux_RV.vhd failed with 48 errors.
+# Compile of tb_reg_RV.vhd failed with 20 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# 47 compiles, 6 failed with 84 errors.
+# Compile of tb_adder_RV.vhd failed with 8 errors.
+# Compile of tb_ALU_RV.vhd failed with 1 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_fault_injector.vhd was successful.
+# Compile of tb_mux_IM.vhd was successful.
+# Compile of tb_mux_RV.vhd failed with 48 errors.
+# Compile of tb_reg_RV.vhd failed with 20 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# 47 compiles, 6 failed with 84 errors.
+# Compile of tb_adder_RV.vhd failed with 8 errors.
+# Compile of tb_ALU_RV.vhd failed with 1 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_fault_injector.vhd was successful.
+# Compile of tb_mux_IM.vhd was successful.
+# Compile of tb_mux_RV.vhd failed with 48 errors.
+# Compile of tb_reg_RV.vhd failed with 20 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# 47 compiles, 6 failed with 84 errors.
+# Compile of tb_adder_RV.vhd failed with 8 errors.
+# Compile of tb_ALU_RV.vhd failed with 1 errors.
+# Compile of tb_counter.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_detector.vhd was successful.
+# Compile of tb_fault_injector.vhd was successful.
+# Compile of tb_mux_IM.vhd was successful.
+# Compile of tb_mux_RV.vhd failed with 48 errors.
+# Compile of tb_reg_RV.vhd failed with 20 errors.
+# Compile of tb_register_file.vhd was successful.
+# Compile of tb_RV.vhd was successful.
+# Compile of tb_top_detector.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of detector.vhd was successful.
+# Compile of reg_1b.vhd was successful.
+# Compile of top_detector.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of ALU.vhd was successful.
+# Compile of controller.vhd was successful.
+# Compile of datamem.vhd was successful.
+# Compile of datamem_interface.vhd was successful.
+# Compile of datapath.vhd failed with 6 errors.
+# Compile of EX_MEM_DIV.vhd was successful.
+# Compile of flushing_unit.vhd was successful.
+# Compile of forwarding_unit.vhd was successful.
+# Compile of ID_EX_DIV.vhd was successful.
+# Compile of IF_ID_DIV.vhd was successful.
+# Compile of jump_target_unit.vhd was successful.
+# Compile of MEM_WB_DIV.vhd was successful.
+# Compile of microcontroller.vhd was successful.
+# Compile of mux_2_1.vhd was successful.
+# Compile of mux_3_1.vhd was successful.
+# Compile of mux_5_1.vhd was successful.
+# Compile of mux_32_1.vhd was successful.
+# Compile of progmem.vhd was successful.
+# Compile of progmem_interface.vhd was successful.
+# Compile of program_counter.vhd was successful.
+# Compile of reg1b.vhd was successful.
+# Compile of reg2b.vhd was successful.
+# Compile of reg3b.vhd was successful.
+# Compile of reg4b.vhd was successful.
+# Compile of reg5b.vhd was successful.
+# Compile of reg32b.vhd was successful.
+# Compile of reg32b_falling_edge.vhd was successful.
+# Compile of register_file.vhd was successful.
+# Compile of fault_injector.vhd was successful.
+# Compile of mux_IM.vhd was successful.
+# 47 compiles, 6 failed with 84 errors.
+# Compile of datapath.vhd was successful.
+# Compile of tb_adder_RV.vhd failed with 8 errors.
+# Compile of tb_adder_RV.vhd failed with 4 errors.
+# Compile of tb_adder_RV.vhd was successful.
+# Compile of tb_reg_RV.vhd failed with 20 errors.
+# Compile of tb_reg_RV.vhd was successful.
+# Compile of tb_ALU_RV.vhd failed with 1 errors.
+# Compile of tb_ALU_RV.vhd was successful.
+# Compile of tb_mux_RV.vhd failed with 48 errors.
+# Compile of tb_mux_RV.vhd failed with 47 errors.
+# Compile of tb_mux_RV.vhd failed with 46 errors.
+# Compile of tb_mux_RV.vhd failed with 45 errors.
+# Compile of tb_mux_RV.vhd failed with 43 errors.
+# Compile of tb_mux_RV.vhd was successful.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_datapath.vhd failed with 2 errors.
+# Compile of tb_datapath.vhd failed with 2 errors.
+# Compile of tb_datapath.vhd failed with 1 errors.
+# Compile of tb_datapath.vhd failed with 48 errors.
+# Compile of tb_datapath.vhd failed with 48 errors.
+# Compile of tb_datapath.vhd failed with 48 errors.
+# reading /home/leds/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project test
+# Compile of decode_fsm_ping_pong.vhd failed with 1 errors.
+# Compile of decoder_SpW_UART.vhd failed with 5 errors.
+# Compile of ip4l_data_types.vhd was successful.
+# Compile of spw.vhd failed with 3 errors.
+# Compile of SpW2UART.vhd was successful.
+# Compile of spw_codes.vhd was successful with warnings.
+# Compile of spw_ctrl.vhd was successful.
+# Compile of spw_fifo_2c.vhd was successful with warnings.
+# Compile of spw_filter_errors.vhd was successful.
+# Compile of spw_rx_add_eep.vhd was successful.
+# Compile of spw_rx_bit_rate.vhd was successful.
+# Compile of spw_rx_flowcredit_x.vhd was successful.
+# Compile of spw_rx_sync.vhd was successful.
+# Compile of spw_rx_to_2b.vhd was successful.
+# Compile of spw_rx_to_data.vhd was successful.
+# Compile of spw_timeout_det.vhd was successful.
+# Compile of spw_tx_discard.vhd was successful.
+# Compile of spw_tx_ds.vhd was successful.
+# Compile of spw_tx_flowcontrol.vhd was successful.
+# Compile of spw_wrap.vhd failed with 1 errors.
+# Compile of spw_wrap_nx.vhd failed with 2 errors.
+# Compile of spw_wrap_nx_loopback.vhd failed with 2 errors.
+# 22 compiles, 6 failed with 14 errors.
+# Compile of spw_wrap_nx_loopback.vhd failed with 2 errors.
+# Compile of decode_fsm_ping_pong.vhd failed with 1 errors.
+# Compile of decoder_SpW_UART.vhd failed with 5 errors.
+# Compile of ip4l_data_types.vhd was successful.
+# Compile of spw.vhd was successful.
+# Compile of SpW2UART.vhd was successful.
+# Compile of spw_codes.vhd was successful with warnings.
+# Compile of spw_ctrl.vhd was successful.
+# Compile of spw_fifo_2c.vhd was successful with warnings.
+# Compile of spw_filter_errors.vhd was successful.
+# Compile of spw_rx_add_eep.vhd was successful.
+# Compile of spw_rx_bit_rate.vhd was successful.
+# Compile of spw_rx_flowcredit_x.vhd was successful.
+# Compile of spw_rx_sync.vhd was successful.
+# Compile of spw_rx_to_2b.vhd was successful.
+# Compile of spw_rx_to_data.vhd was successful.
+# Compile of spw_timeout_det.vhd was successful.
+# Compile of spw_tx_discard.vhd was successful.
+# Compile of spw_tx_ds.vhd was successful.
+# Compile of spw_tx_flowcontrol.vhd was successful.
+# Compile of spw_wrap.vhd was successful.
+# Compile of spw_wrap_nx.vhd failed with 2 errors.
+# Compile of spw_wrap_nx_loopback.vhd failed with 2 errors.
+# 22 compiles, 4 failed with 10 errors.
+# Compile of decoder_SpW_UART.vhd was successful.
+# Compile of decoder_SpW_UART.vhd was successful.
+# Compile of ip4l_data_types.vhd was successful.
+# Compile of spw.vhd was successful.
+# Compile of SpW2UART.vhd was successful.
+# Compile of spw_codes.vhd was successful with warnings.
+# Compile of spw_ctrl.vhd was successful.
+# Compile of spw_fifo_2c.vhd was successful with warnings.
+# Compile of spw_filter_errors.vhd was successful.
+# Compile of spw_rx_add_eep.vhd was successful.
+# Compile of spw_rx_bit_rate.vhd was successful.
+# Compile of spw_rx_flowcredit_x.vhd was successful.
+# Compile of spw_rx_sync.vhd was successful.
+# Compile of spw_rx_to_2b.vhd was successful.
+# Compile of spw_rx_to_data.vhd was successful.
+# Compile of spw_timeout_det.vhd was successful.
+# Compile of spw_tx_discard.vhd was successful.
+# Compile of spw_tx_ds.vhd was successful.
+# Compile of spw_tx_flowcontrol.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+# Compile of spw_wrap_nx_SpW2UART.vhd failed with 2 errors.
+# Compile of tbench_syn.vhd failed with 3 errors.
+# Compile of decoder_SpW_UART.vhd was successful.
+# Compile of ip4l_data_types.vhd was successful.
+# Compile of spw.vhd was successful.
+# Compile of SpW2UART.vhd was successful.
+# Compile of spw_codes.vhd was successful with warnings.
+# Compile of spw_ctrl.vhd was successful.
+# Compile of spw_fifo_2c.vhd was successful with warnings.
+# Compile of spw_filter_errors.vhd was successful.
+# Compile of spw_rx_add_eep.vhd was successful.
+# Compile of spw_rx_bit_rate.vhd was successful.
+# Compile of spw_rx_flowcredit_x.vhd was successful.
+# Compile of spw_rx_sync.vhd was successful.
+# Compile of spw_rx_to_2b.vhd was successful.
+# Compile of spw_rx_to_data.vhd was successful.
+# Compile of spw_timeout_det.vhd was successful.
+# Compile of spw_tx_discard.vhd was successful.
+# Compile of spw_tx_ds.vhd was successful.
+# Compile of spw_tx_flowcontrol.vhd was successful.
+# Compile of spw_wrap_nx_SpW2UART.vhd failed with 2 errors.
+# Compile of tbench_syn.vhd was successful.
+# 20 compiles, 1 failed with 2 errors.
+vsim work.tbench_mod
+# vsim work.tbench_mod 
+# Start time: 20:55:59 on Sep 11,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ip4l_data_types(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.spw_codes(body)
+# Loading work.tbench_mod(behaviour)
+# Loading work.spw_wrap(rtl)
+# Loading work.spw(rtl)
+# Loading work.spw_tx_discard(rtl)
+# Loading work.spw_tx_flowcontrol(rtl)
+# Loading work.spw_tx_ds(rtl)
+# Loading work.spw_ctrl(rtl)
+# Loading work.spw_rx_flowcredit_x(rtl)
+# Loading work.spw_timeout_det(rtl)
+# Loading work.spw_rx_bit_rate(rtl)
+# Loading work.spw_rx_to_2b(rtl)
+# Loading work.spw_rx_sync(rtl)
+# Loading work.spw_rx_to_data(rtl)
+# Loading work.spw_fifo_2c(rtl)
+# Loading work.spw_rx_add_eep(rtl)
+# Loading work.spw_filter_errors(rtl)
+# Loading work.spw2uart(rtl)
+# ** Warning: (vsim-3473) Component instance "UART_INST : uart" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tbench_mod/u_fsm File: /home/leds/Desktop/BraveSatellite/Syn/syn_uart_v2_medium/src/SpW2UART.vhd
+# Loading work.decoder_spw_uart(rtl)
+# ** Warning: (vsim-8684) No drivers exist on out port /tbench_mod/u_fsm/o_TX_Serial, and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tbench_mod/o_TX_Serial.
+add wave -position end  sim:/tbench_mod/clk
+add wave -position end  sim:/tbench_mod/clk_b
+add wave -position end  sim:/tbench_mod/rst
+add wave -position end  sim:/tbench_mod/i_RX_Serial
+add wave -position end  sim:/tbench_mod/o_TX_Serial
+run 2000us
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3473) Component instance "UART_INST : uart" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tbench_mod/u_fsm File: /home/leds/Desktop/BraveSatellite/Syn/syn_uart_v2_medium/src/SpW2UART.vhd
+# ** Warning: (vsim-8684) No drivers exist on out port /tbench_mod/u_fsm/o_TX_Serial, and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tbench_mod/o_TX_Serial.
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run 100ns
+force -freeze sim:/tbench_mod/rst 0 0
+run 2000us
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3473) Component instance "UART_INST : uart" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tbench_mod/u_fsm File: /home/leds/Desktop/BraveSatellite/Syn/syn_uart_v2_medium/src/SpW2UART.vhd
+# ** Warning: (vsim-8684) No drivers exist on out port /tbench_mod/u_fsm/o_TX_Serial, and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tbench_mod/o_TX_Serial.
+add wave -position end  sim:/tbench_mod/clk
+add wave -position end  sim:/tbench_mod/rst
+add wave -position end  sim:/tbench_mod/fm_port_Data_1
+add wave -position end  sim:/tbench_mod/fm_port_OR_1
+add wave -position end  sim:/tbench_mod/fm_port_IR_1
+add wave -position end  sim:/tbench_mod/to_port_Data_1
+add wave -position end  sim:/tbench_mod/to_port_OR_1
+add wave -position end  sim:/tbench_mod/to_port_IR_1
+add wave -position end  sim:/tbench_mod/fm_port_Data_2
+add wave -position end  sim:/tbench_mod/fm_port_OR_2
+add wave -position end  sim:/tbench_mod/fm_port_IR_2
+add wave -position end  sim:/tbench_mod/to_port_Data_2
+add wave -position end  sim:/tbench_mod/to_port_OR_2
+add wave -position end  sim:/tbench_mod/to_port_IR_2
+add wave -position end  sim:/tbench_mod/fm_port_IR_2_std
+add wave -position end  sim:/tbench_mod/fm_port_OR_2_std
+add wave -position end  sim:/tbench_mod/to_port_IR_2_std
+add wave -position end  sim:/tbench_mod/to_port_OR_2_std
+add wave -position end  sim:/tbench_mod/u_fsm/i_clk
+add wave -position end  sim:/tbench_mod/u_fsm/i_rst_n_async
+add wave -position end  sim:/tbench_mod/u_fsm/i_spw_flag
+add wave -position end  sim:/tbench_mod/u_fsm/i_spw_valid
+add wave -position end  sim:/tbench_mod/u_fsm/i_spw_data
+add wave -position end  sim:/tbench_mod/u_fsm/i_spw_ready
+add wave -position end  sim:/tbench_mod/u_fsm/o_spw_ready
+add wave -position end  sim:/tbench_mod/u_fsm/o_spw_flag
+add wave -position end  sim:/tbench_mod/u_fsm/o_spw_valid
+add wave -position end  sim:/tbench_mod/u_fsm/o_spw_data
+add wave -position end  sim:/tbench_mod/u_fsm/current_state
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/current_state'.
+add wave -position end  sim:/tbench_mod/u_fsm/next_state
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/next_state'.
+add wave -position end  sim:/tbench_mod/u_fsm/counter_s
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/counter_s'.
+add wave -position end  sim:/tbench_mod/u_fsm/csp_counter_s
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/csp_counter_s'.
+add wave -position end  sim:/tbench_mod/u_fsm/destination_address_s
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/destination_address_s'.
+add wave -position end  sim:/tbench_mod/u_fsm/protocol_id_s
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/protocol_id_s'.
+add wave -position end  sim:/tbench_mod/u_fsm/source_address_s
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/source_address_s'.
+add wave -position end  sim:/tbench_mod/u_fsm/service_id_s
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/service_id_s'.
+add wave -position end  sim:/tbench_mod/u_fsm/sequence_number_s
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/sequence_number_s'.
+add wave -position end  sim:/tbench_mod/u_fsm/control_s
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/control_s'.
+add wave -position end  sim:/tbench_mod/u_fsm/data_length_s
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/data_length_s'.
+add wave -position end  sim:/tbench_mod/u_fsm/spw_crc_s
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/spw_crc_s'.
+add wave -position end  sim:/tbench_mod/u_fsm/data_s
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/data_s'.
+add wave -position end  sim:/tbench_mod/u_fsm/source_address_sim
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/source_address_sim'.
+add wave -position end  sim:/tbench_mod/u_fsm/destination_address_sim
+# ** UI-Msg: (vish-4014) No objects found matching '/tbench_mod/u_fsm/destination_address_sim'.
+
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run
+force -freeze sim:/tbench_mod/rst 0 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/tbench_mod/u_fsm/i_RX_Serial
+add wave -position end  sim:/tbench_mod/u_fsm/o_TX_Serial
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/current_state
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/next_state
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3473) Component instance "UART_INST : uart" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tbench_mod/u_fsm File: /home/leds/Desktop/BraveSatellite/Syn/syn_uart_v2_medium/src/SpW2UART.vhd
+# ** Warning: (vsim-8684) No drivers exist on out port /tbench_mod/u_fsm/o_TX_Serial, and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tbench_mod/o_TX_Serial.
+force -freeze sim:/tbench_mod/rst 1 0
+force -freeze sim:/tbench_mod/rst 1 0
+run
+force -freeze sim:/tbench_mod/rst 0 0
+run
+run 2000us
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3473) Component instance "UART_INST : uart" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tbench_mod/u_fsm File: /home/leds/Desktop/BraveSatellite/Syn/syn_uart_v2_medium/src/SpW2UART.vhd
+# ** Warning: (vsim-8684) No drivers exist on out port /tbench_mod/u_fsm/o_TX_Serial, and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tbench_mod/o_TX_Serial.
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run
+force -freeze sim:/tbench_mod/rst 0 0
+run 2000us
+quit -sim
+# End time: 21:06:35 on Sep 11,2021, Elapsed time: 0:10:36
+# Errors: 0, Warnings: 3
+# reading /home/leds/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project test_syn
+vsim work.tbench_mod
+# vsim work.tbench_mod 
+# Start time: 21:08:44 on Sep 11,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ip4l_data_types(body)
+# Loading work.ip4l_beh_models(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.spw_codes(body)
+# Loading work.tbench_mod(behaviour)
+# Loading work.spw_wrap(rtl)
+# Loading work.spw(rtl)
+# Loading work.spw_tx_discard(rtl)
+# Loading work.spw_tx_flowcontrol(rtl)
+# Loading work.spw_tx_ds(rtl)
+# Loading work.spw_ctrl(rtl)
+# Loading work.spw_rx_flowcredit_x(rtl)
+# Loading work.spw_timeout_det(rtl)
+# Loading work.spw_rx_bit_rate(rtl)
+# Loading work.spw_rx_to_2b(rtl)
+# Loading work.spw_rx_sync(rtl)
+# Loading work.spw_rx_to_data(rtl)
+# Loading work.spw_fifo_2c(rtl)
+# Loading work.spw_rx_add_eep(rtl)
+# Loading work.spw_filter_errors(rtl)
+# Loading work.spw2uart(rtl)
+# Loading work.uart(behave)
+# Loading work.uart_tx(rtl)
+# Loading work.uart_rx(rtl)
+# Loading work.decoder_spw_uart(rtl)
+add wave -position end  sim:/tbench_mod/clk
+add wave -position end  sim:/tbench_mod/rst
+add wave -position end  sim:/tbench_mod/i_RX_Serial
+add wave -position end  sim:/tbench_mod/o_TX_Serial
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run 100 ns
+force -freeze sim:/tbench_mod/rst 0 0
+run 2000us
+quit -sim
+# End time: 21:09:58 on Sep 11,2021, Elapsed time: 0:01:14
+# Errors: 0, Warnings: 1
+# Compile of tbench_syn.vhd was successful.
+vsim work.tbench_mod
+# vsim work.tbench_mod 
+# Start time: 21:11:09 on Sep 11,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ip4l_data_types(body)
+# Loading work.ip4l_beh_models(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.spw_codes(body)
+# Loading work.tbench_mod(behaviour)
+# Loading work.spw_wrap(rtl)
+# Loading work.spw(rtl)
+# Loading work.spw_tx_discard(rtl)
+# Loading work.spw_tx_flowcontrol(rtl)
+# Loading work.spw_tx_ds(rtl)
+# Loading work.spw_ctrl(rtl)
+# Loading work.spw_rx_flowcredit_x(rtl)
+# Loading work.spw_timeout_det(rtl)
+# Loading work.spw_rx_bit_rate(rtl)
+# Loading work.spw_rx_to_2b(rtl)
+# Loading work.spw_rx_sync(rtl)
+# Loading work.spw_rx_to_data(rtl)
+# Loading work.spw_fifo_2c(rtl)
+# Loading work.spw_rx_add_eep(rtl)
+# Loading work.spw_filter_errors(rtl)
+# Loading work.spw2uart(rtl)
+# Loading work.uart(behave)
+# Loading work.uart_tx(rtl)
+# Loading work.uart_rx(rtl)
+# Loading work.decoder_spw_uart(rtl)
+add wave -position end  sim:/tbench_mod/clk
+add wave -position end  sim:/tbench_mod/rst
+add wave -position end  sim:/tbench_mod/i_RX_Serial
+add wave -position end  sim:/tbench_mod/o_TX_Serial
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run
+force -freeze sim:/tbench_mod/rst 0 0
+run 2000us
+run 2000 us
+quit -sim
+# End time: 21:12:25 on Sep 11,2021, Elapsed time: 0:01:16
+# Errors: 0, Warnings: 2
+vsim work.tbench_mod
+# vsim work.tbench_mod 
+# Start time: 21:15:12 on Sep 11,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ip4l_data_types(body)
+# Loading work.ip4l_beh_models(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.spw_codes(body)
+# Loading work.tbench_mod(behaviour)
+# Loading work.spw_wrap(rtl)
+# Loading work.spw(rtl)
+# Loading work.spw_tx_discard(rtl)
+# Loading work.spw_tx_flowcontrol(rtl)
+# Loading work.spw_tx_ds(rtl)
+# Loading work.spw_ctrl(rtl)
+# Loading work.spw_rx_flowcredit_x(rtl)
+# Loading work.spw_timeout_det(rtl)
+# Loading work.spw_rx_bit_rate(rtl)
+# Loading work.spw_rx_to_2b(rtl)
+# Loading work.spw_rx_sync(rtl)
+# Loading work.spw_rx_to_data(rtl)
+# Loading work.spw_fifo_2c(rtl)
+# Loading work.spw_rx_add_eep(rtl)
+# Loading work.spw_filter_errors(rtl)
+# Loading work.spw2uart(rtl)
+# Loading work.uart(behave)
+# Loading work.uart_tx(rtl)
+# Loading work.uart_rx(rtl)
+# Loading work.decoder_spw_uart(rtl)
+add wave -position end  sim:/tbench_mod/clk
+add wave -position end  sim:/tbench_mod/rst
+add wave -position end  sim:/tbench_mod/i_RX_Serial
+add wave -position end  sim:/tbench_mod/o_TX_Serial
+add wave -position end  sim:/tbench_mod/state_SpW
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/current_state
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/next_state
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_flag
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_valid
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_data
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_ready
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_ready
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_flag
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_valid
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_data
+force -freeze sim:/tbench_mod/clk 1 0, 0 {50000 ps} -r 100ns
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run
+force -freeze sim:/tbench_mod/rst 0 0
+run
+restart
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run
+force -freeze sim:/tbench_mod/rst 0 0
+run
+run
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/counter_s
+restart
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run
+force -freeze sim:/tbench_mod/rst 0 0
+run
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/i_TX_DV
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/i_TX_Byte
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Active
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Serial
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Done
+restart
+add wave -position end  sim:/tbench_mod/fm_port_Data_1
+add wave -position end  sim:/tbench_mod/fm_port_OR_1
+add wave -position end  sim:/tbench_mod/fm_port_IR_1
+add wave -position end  sim:/tbench_mod/to_port_Data_1
+add wave -position end  sim:/tbench_mod/to_port_OR_1
+add wave -position end  sim:/tbench_mod/to_port_IR_1
+add wave -position end  sim:/tbench_mod/fm_port_Data_2
+add wave -position end  sim:/tbench_mod/fm_port_OR_2
+add wave -position end  sim:/tbench_mod/fm_port_IR_2
+add wave -position end  sim:/tbench_mod/to_port_Data_2
+add wave -position end  sim:/tbench_mod/to_port_OR_2
+add wave -position end  sim:/tbench_mod/to_port_IR_2
+restart
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run
+force -freeze sim:/tbench_mod/rst 0 0
+run 2000 us
+add wave -position 15  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/data_length_s
+add wave -position 16  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/destination_address_s
+add wave -position 17  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/protocol_id_s
+add wave -position 18  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/source_address_s
+add wave -position 19  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/service_id_s
+add wave -position 20  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/sequence_number_s
+add wave -position 21  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/control_s
+add wave -position 22  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/data_length_s
+add wave -position 23  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/spw_crc_s
+restart
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run 100 ns
+force -freeze sim:/tbench_mod/rst 0 0
+run 2000 us
+quit -sim
+# End time: 22:48:33 on Sep 11,2021, Elapsed time: 1:33:21
+# Errors: 0, Warnings: 1
+# Compile of decoder_SpW_UART.vhd was successful.
+vsim work.tbench_mod
+# vsim work.tbench_mod 
+# Start time: 22:48:45 on Sep 11,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ip4l_data_types(body)
+# Loading work.ip4l_beh_models(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.spw_codes(body)
+# Loading work.tbench_mod(behaviour)
+# Loading work.spw_wrap(rtl)
+# Loading work.spw(rtl)
+# Loading work.spw_tx_discard(rtl)
+# Loading work.spw_tx_flowcontrol(rtl)
+# Loading work.spw_tx_ds(rtl)
+# Loading work.spw_ctrl(rtl)
+# Loading work.spw_rx_flowcredit_x(rtl)
+# Loading work.spw_timeout_det(rtl)
+# Loading work.spw_rx_bit_rate(rtl)
+# Loading work.spw_rx_to_2b(rtl)
+# Loading work.spw_rx_sync(rtl)
+# Loading work.spw_rx_to_data(rtl)
+# Loading work.spw_fifo_2c(rtl)
+# Loading work.spw_rx_add_eep(rtl)
+# Loading work.spw_filter_errors(rtl)
+# Loading work.spw2uart(rtl)
+# Loading work.uart(behave)
+# Loading work.uart_tx(rtl)
+# Loading work.uart_rx(rtl)
+# Loading work.decoder_spw_uart(rtl)
+add wave -position end  sim:/tbench_mod/clk
+add wave -position end  sim:/tbench_mod/rst
+add wave -position end  sim:/tbench_mod/i_RX_Serial
+add wave -position end  sim:/tbench_mod/o_TX_Serial
+add wave -position end  sim:/tbench_mod/state_SpW
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/current_state
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/next_state
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_flag
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_valid
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_data
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_ready
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_ready
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_flag
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_valid
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_data
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/counter_s
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/i_TX_DV
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/i_TX_Byte
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Active
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Serial
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Done
+add wave -position end  sim:/tbench_mod/fm_port_Data_1
+add wave -position end  sim:/tbench_mod/fm_port_OR_1
+add wave -position end  sim:/tbench_mod/fm_port_IR_1
+add wave -position end  sim:/tbench_mod/to_port_Data_1
+add wave -position end  sim:/tbench_mod/to_port_OR_1
+add wave -position end  sim:/tbench_mod/to_port_IR_1
+add wave -position end  sim:/tbench_mod/fm_port_Data_2
+add wave -position end  sim:/tbench_mod/fm_port_OR_2
+add wave -position end  sim:/tbench_mod/fm_port_IR_2
+add wave -position end  sim:/tbench_mod/to_port_Data_2
+add wave -position end  sim:/tbench_mod/to_port_OR_2
+add wave -position end  sim:/tbench_mod/to_port_IR_2
+add wave -position 15  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/data_length_s
+add wave -position 16  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/destination_address_s
+add wave -position 17  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/protocol_id_s
+add wave -position 18  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/source_address_s
+add wave -position 19  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/service_id_s
+add wave -position 20  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/sequence_number_s
+add wave -position 21  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/control_s
+add wave -position 22  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/data_length_s
+add wave -position 23  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/spw_crc_s
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run 100 ns
+force -freeze sim:/tbench_mod/rst 0 0
+run 2000 us
+quit -sim
+# End time: 22:50:47 on Sep 11,2021, Elapsed time: 0:02:02
+# Errors: 0, Warnings: 2
+# Compile of tbench_syn.vhd was successful.
+vsim work.tbench_mod
+# vsim work.tbench_mod 
+# Start time: 22:50:58 on Sep 11,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ip4l_data_types(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.spw_codes(body)
+# Loading work.tbench_mod(behaviour)
+# Loading work.spw_wrap(rtl)
+# Loading work.spw(rtl)
+# Loading work.spw_tx_discard(rtl)
+# Loading work.spw_tx_flowcontrol(rtl)
+# Loading work.spw_tx_ds(rtl)
+# Loading work.spw_ctrl(rtl)
+# Loading work.spw_rx_flowcredit_x(rtl)
+# Loading work.spw_timeout_det(rtl)
+# Loading work.spw_rx_bit_rate(rtl)
+# Loading work.spw_rx_to_2b(rtl)
+# Loading work.spw_rx_sync(rtl)
+# Loading work.spw_rx_to_data(rtl)
+# Loading work.spw_fifo_2c(rtl)
+# Loading work.spw_rx_add_eep(rtl)
+# Loading work.spw_filter_errors(rtl)
+# Loading work.spw2uart(rtl)
+# Loading work.uart(behave)
+# Loading work.uart_tx(rtl)
+# Loading work.uart_rx(rtl)
+# Loading work.decoder_spw_uart(rtl)
+add wave -position end  sim:/tbench_mod/clk
+add wave -position end  sim:/tbench_mod/rst
+add wave -position end  sim:/tbench_mod/i_RX_Serial
+add wave -position end  sim:/tbench_mod/o_TX_Serial
+add wave -position end  sim:/tbench_mod/state_SpW
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/current_state
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/next_state
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_flag
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_valid
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_data
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_ready
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_ready
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_flag
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_valid
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_data
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/counter_s
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/i_TX_DV
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/i_TX_Byte
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Active
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Serial
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Done
+add wave -position end  sim:/tbench_mod/fm_port_Data_1
+add wave -position end  sim:/tbench_mod/fm_port_OR_1
+add wave -position end  sim:/tbench_mod/fm_port_IR_1
+add wave -position end  sim:/tbench_mod/to_port_Data_1
+add wave -position end  sim:/tbench_mod/to_port_OR_1
+add wave -position end  sim:/tbench_mod/to_port_IR_1
+add wave -position end  sim:/tbench_mod/fm_port_Data_2
+add wave -position end  sim:/tbench_mod/fm_port_OR_2
+add wave -position end  sim:/tbench_mod/fm_port_IR_2
+add wave -position end  sim:/tbench_mod/to_port_Data_2
+add wave -position end  sim:/tbench_mod/to_port_OR_2
+add wave -position end  sim:/tbench_mod/to_port_IR_2
+add wave -position 15  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/data_length_s
+add wave -position 16  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/destination_address_s
+add wave -position 17  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/protocol_id_s
+add wave -position 18  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/source_address_s
+add wave -position 19  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/service_id_s
+add wave -position 20  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/sequence_number_s
+add wave -position 21  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/control_s
+add wave -position 22  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/data_length_s
+add wave -position 23  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/spw_crc_s
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run 100 ns
+force -freeze sim:/tbench_mod/rst 0 0
+run 2000 us
+quit -sim
+# End time: 22:55:05 on Sep 11,2021, Elapsed time: 0:04:07
+# Errors: 0, Warnings: 2
+# reading /home/leds/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project sim_syn
+# Compile of decoder_SpW_UART.vhd failed with 5 errors.
+# Compile of ip4l_data_types.vhd was successful.
+# Compile of spw.vhd failed with 3 errors.
+# Compile of SpW2UART.vhd was successful.
+# Compile of spw_codes.vhd was successful with warnings.
+# Compile of spw_ctrl.vhd was successful.
+# Compile of spw_fifo_2c.vhd was successful with warnings.
+# Compile of spw_filter_errors.vhd was successful.
+# Compile of spw_rx_add_eep.vhd was successful.
+# Compile of spw_rx_bit_rate.vhd was successful.
+# Compile of spw_rx_flowcredit_x.vhd was successful.
+# Compile of spw_rx_sync.vhd was successful.
+# Compile of spw_rx_to_2b.vhd was successful.
+# Compile of spw_rx_to_data.vhd was successful.
+# Compile of spw_timeout_det.vhd was successful.
+# Compile of spw_tx_discard.vhd was successful.
+# Compile of spw_tx_ds.vhd was successful.
+# Compile of spw_tx_flowcontrol.vhd was successful.
+# Compile of spw_wrap_nx_SpW2UART.vhd failed with 2 errors.
+# Compile of tbench_syn.vhd failed with 2 errors.
+# Compile of UART.vhd was successful.
+# Compile of UART_RX.vhd was successful.
+# Compile of UART_TX.vhd was successful.
+# 23 compiles, 4 failed with 12 errors.
+# Compile of decoder_SpW_UART.vhd failed with 5 errors.
+# Compile of ip4l_data_types.vhd was successful.
+# Compile of spw.vhd was successful.
+# Compile of SpW2UART.vhd was successful.
+# Compile of spw_codes.vhd was successful with warnings.
+# Compile of spw_ctrl.vhd was successful.
+# Compile of spw_fifo_2c.vhd was successful with warnings.
+# Compile of spw_filter_errors.vhd was successful.
+# Compile of spw_rx_add_eep.vhd was successful.
+# Compile of spw_rx_bit_rate.vhd was successful.
+# Compile of spw_rx_flowcredit_x.vhd was successful.
+# Compile of spw_rx_sync.vhd was successful.
+# Compile of spw_rx_to_2b.vhd was successful.
+# Compile of spw_rx_to_data.vhd was successful.
+# Compile of spw_timeout_det.vhd was successful.
+# Compile of spw_tx_discard.vhd was successful.
+# Compile of spw_tx_ds.vhd was successful.
+# Compile of spw_tx_flowcontrol.vhd was successful.
+# Compile of spw_wrap_nx_SpW2UART.vhd failed with 2 errors.
+# Compile of tbench_syn.vhd failed with 2 errors.
+# Compile of UART.vhd was successful.
+# Compile of UART_RX.vhd was successful.
+# Compile of UART_TX.vhd was successful.
+# 23 compiles, 3 failed with 9 errors.
+# Compile of decoder_SpW_UART.vhd was successful.
+# Compile of tbench_syn.vhd failed with 2 errors.
+# Compile of spw_wrap.vhd was successful.
+# Compile of decoder_SpW_UART.vhd was successful.
+# Compile of ip4l_data_types.vhd was successful.
+# Compile of spw.vhd was successful.
+# Compile of SpW2UART.vhd was successful.
+# Compile of spw_codes.vhd was successful with warnings.
+# Compile of spw_ctrl.vhd was successful.
+# Compile of spw_fifo_2c.vhd was successful with warnings.
+# Compile of spw_filter_errors.vhd was successful.
+# Compile of spw_rx_add_eep.vhd was successful.
+# Compile of spw_rx_bit_rate.vhd was successful.
+# Compile of spw_rx_flowcredit_x.vhd was successful.
+# Compile of spw_rx_sync.vhd was successful.
+# Compile of spw_rx_to_2b.vhd was successful.
+# Compile of spw_rx_to_data.vhd was successful.
+# Compile of spw_timeout_det.vhd was successful.
+# Compile of spw_tx_discard.vhd was successful.
+# Compile of spw_tx_ds.vhd was successful.
+# Compile of spw_tx_flowcontrol.vhd was successful.
+# Compile of spw_wrap_nx_SpW2UART.vhd failed with 2 errors.
+# Compile of tbench_syn.vhd was successful.
+# Compile of UART.vhd was successful.
+# Compile of UART_RX.vhd was successful.
+# Compile of UART_TX.vhd was successful.
+# Compile of spw_wrap.vhd was successful.
+# 24 compiles, 1 failed with 2 errors.
+vsim work.tbench_mod
+# vsim work.tbench_mod 
+# Start time: 22:58:07 on Sep 11,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ip4l_data_types(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.spw_codes(body)
+# Loading work.tbench_mod(behaviour)
+# Loading work.spw_wrap(rtl)
+# Loading work.spw(rtl)
+# Loading work.spw_tx_discard(rtl)
+# Loading work.spw_tx_flowcontrol(rtl)
+# Loading work.spw_tx_ds(rtl)
+# Loading work.spw_ctrl(rtl)
+# Loading work.spw_rx_flowcredit_x(rtl)
+# Loading work.spw_timeout_det(rtl)
+# Loading work.spw_rx_bit_rate(rtl)
+# Loading work.spw_rx_to_2b(rtl)
+# Loading work.spw_rx_sync(rtl)
+# Loading work.spw_rx_to_data(rtl)
+# Loading work.spw_fifo_2c(rtl)
+# Loading work.spw_rx_add_eep(rtl)
+# Loading work.spw_filter_errors(rtl)
+# Loading work.spw2uart(rtl)
+# Loading work.uart(behave)
+# Loading work.uart_tx(rtl)
+# Loading work.uart_rx(rtl)
+# Loading work.decoder_spw_uart(rtl)
+add wave -position end  sim:/tbench_mod/clk
+add wave -position end  sim:/tbench_mod/rst
+add wave -position end  sim:/tbench_mod/i_RX_Serial
+add wave -position end  sim:/tbench_mod/o_TX_Serial
+add wave -position end  sim:/tbench_mod/state_SpW
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/current_state
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/next_state
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_flag
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_valid
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_data
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/i_spw_ready
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_ready
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_flag
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_valid
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/o_spw_data
+add wave -position end  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/counter_s
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/i_TX_DV
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/i_TX_Byte
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Active
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Serial
+add wave -position end  sim:/tbench_mod/u_fsm/UART_INST/o_TX_Done
+add wave -position end  sim:/tbench_mod/fm_port_Data_1
+add wave -position end  sim:/tbench_mod/fm_port_OR_1
+add wave -position end  sim:/tbench_mod/fm_port_IR_1
+add wave -position end  sim:/tbench_mod/to_port_Data_1
+add wave -position end  sim:/tbench_mod/to_port_OR_1
+add wave -position end  sim:/tbench_mod/to_port_IR_1
+add wave -position end  sim:/tbench_mod/fm_port_Data_2
+add wave -position end  sim:/tbench_mod/fm_port_OR_2
+add wave -position end  sim:/tbench_mod/fm_port_IR_2
+add wave -position end  sim:/tbench_mod/to_port_Data_2
+add wave -position end  sim:/tbench_mod/to_port_OR_2
+add wave -position end  sim:/tbench_mod/to_port_IR_2
+add wave -position 15  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/data_length_s
+add wave -position 16  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/destination_address_s
+add wave -position 17  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/protocol_id_s
+add wave -position 18  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/source_address_s
+add wave -position 19  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/service_id_s
+add wave -position 20  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/sequence_number_s
+add wave -position 21  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/control_s
+add wave -position 22  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/data_length_s
+add wave -position 23  sim:/tbench_mod/u_fsm/DEC_SpW_UART_INST/spw_crc_s
+force -freeze sim:/tbench_mod/clk 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/tbench_mod/rst 1 0
+run 100 ns
+force -freeze sim:/tbench_mod/rst 0 0
+run 2000 us
+# Compile of spw_wrap_nx_SpW2UART.vhd failed with 2 errors.

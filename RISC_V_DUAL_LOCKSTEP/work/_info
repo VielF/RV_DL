@@ -1,0 +1,2003 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/leds/Desktop/BraveSatellite/Syn/decode_SpW_UART/sim
+Eadder
+Z0 w1584060317
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 958
+Z4 d/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP
+Z5 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/adder.vhd
+Z6 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/adder.vhd
+l0
+L5 1
+Vd0^oo]f8Cj=1Y00[]=GcZ2
+!s100 mLm`NABaR^5WR0eJT>V;53
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1656621417
+!i10b 1
+Z9 !s108 1656621416.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/adder.vhd|
+Z11 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/adder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+DEx4 work 5 adder 0 22 d0^oo]f8Cj=1Y00[]=GcZ2
+!i122 958
+l15
+L13 11
+VW[TX^LBaA?RG=UK=BbW;E3
+!s100 <Gde8mV:E6_MKT2L5<I1d3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ealu
+Z14 w1632334878
+R1
+R2
+R3
+!i122 959
+R4
+Z15 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/ALU.vhd
+Z16 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/ALU.vhd
+l0
+L5 1
+VNfmH[b6QThk9KjLH`P0W40
+!s100 jo7M?j4M@][`M4z;6IQAl2
+R7
+32
+R8
+!i10b 1
+Z17 !s108 1656621417.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/ALU.vhd|
+Z19 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/ALU.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+Z20 DEx4 work 3 alu 0 22 NfmH[b6QThk9KjLH`P0W40
+!i122 959
+l20
+L16 120
+V4dgPYACNWN73:6[hzQf7g0
+!s100 bn`;l;MHQCHH_k]Q_YjNn0
+R7
+32
+R8
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R12
+R13
+Cconfig_mem
+eprogmem
+abehavioural_fibo
+DAx4 work 7 progmem 16 behavioural_fibo 22 ?e`P6<DaFLIB5L>OYYNS;0
+R1
+R2
+R3
+Z21 DEx4 work 7 progmem 0 22 GSOV<cY@K]gT08Pz<23;S2
+!i122 976
+Z22 w1633035375
+R4
+Z23 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/progmem.vhd
+Z24 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/progmem.vhd
+l0
+L266 1
+VcD>_ObTVEAeGG7DEYXeHa1
+!s100 oVkC@Gm:gzS@?DT166hTM0
+R7
+32
+R8
+!i10b 0
+R17
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/progmem.vhd|
+Z26 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/progmem.vhd|
+!i113 1
+R12
+R13
+Econtroller
+Z27 w1632428696
+R1
+R2
+R3
+!i122 960
+R4
+Z28 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/controller.vhd
+Z29 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/controller.vhd
+l0
+L6 1
+VTJ7>o8:JKGcCbNS:7lTfL3
+!s100 hjL>kTR8:hi7UTUH3eYPa1
+R7
+32
+R8
+!i10b 1
+R17
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/controller.vhd|
+Z31 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/controller.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+Z32 DEx4 work 10 controller 0 22 TJ7>o8:JKGcCbNS:7lTfL3
+!i122 960
+l60
+L28 499
+Vh3I6Vd13dPdEghYkgDV`>2
+!s100 7R^<g8:2zU8hi8zOo2_oC1
+R7
+32
+R8
+!i10b 1
+R17
+R30
+R31
+!i113 1
+R12
+R13
+Ecounter
+Z33 w1631210101
+Z34 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z35 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R2
+R3
+!i122 988
+R4
+Z36 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/counter.vhd
+Z37 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/counter.vhd
+l0
+L5 1
+V<cJF?FfH_InPYoEE8z5dU3
+!s100 RV;6F5@19XCN^H>f7N>cl3
+R7
+32
+Z38 !s110 1656621418
+!i10b 1
+Z39 !s108 1656621418.000000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/counter.vhd|
+Z41 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/counter.vhd|
+!i113 1
+R12
+R13
+Adescription
+R34
+R35
+R2
+R3
+Z42 DEx4 work 7 counter 0 22 <cJF?FfH_InPYoEE8z5dU3
+!i122 988
+l19
+L17 19
+VCe9S=WE8ZB`>UmiPLd6Z22
+!s100 YITNmdF<PN[6Z;6U@EZJa0
+R7
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R12
+R13
+Edatamem
+Z43 w1632442870
+R34
+R35
+R2
+R3
+!i122 961
+R4
+Z44 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datamem.vhd
+Z45 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datamem.vhd
+l0
+L5 1
+V[X0I60m6g15HcZYm6hP>21
+!s100 gOn@ZXk=idN[8<CVAmTZM0
+R7
+32
+R8
+!i10b 1
+R17
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datamem.vhd|
+Z47 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datamem.vhd|
+!i113 1
+R12
+R13
+Abehavioural
+R34
+R35
+R2
+R3
+Z48 DEx4 work 7 datamem 0 22 [X0I60m6g15HcZYm6hP>21
+!i122 961
+l17
+L14 12
+V<O34Pc1g4l6C6iA=gOU6k2
+!s100 <RBGJAIXnV8E:if`jdbV@1
+R7
+32
+R8
+!i10b 1
+R17
+R46
+R47
+!i113 1
+R12
+R13
+Edatamem_interface
+Z49 w1632442687
+R1
+R2
+R3
+!i122 962
+R4
+Z50 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datamem_interface.vhd
+Z51 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datamem_interface.vhd
+l0
+L6 1
+VL>PW@ScZSP[MiQeK0naNT2
+!s100 9c3QWBMia?>6SKXL6PMbW2
+R7
+32
+R8
+!i10b 1
+R17
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datamem_interface.vhd|
+Z53 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datamem_interface.vhd|
+!i113 1
+R12
+R13
+Abehavioural
+R34
+R35
+R48
+R1
+R2
+R3
+Z54 DEx4 work 17 datamem_interface 0 22 L>PW@ScZSP[MiQeK0naNT2
+!i122 962
+l35
+L16 217
+V4ihk3eBacNH^A?1M6_CKk3
+!s100 k8zzU98@A_3DZnU:mE_=l3
+R7
+32
+R8
+!i10b 1
+R17
+R52
+R53
+!i113 1
+R12
+R13
+Edatapath
+Z55 w1632441279
+R1
+R2
+R3
+!i122 963
+R4
+Z56 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datapath.vhd
+Z57 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datapath.vhd
+l0
+L6 1
+VRf>hW1W@;;<CAZFz88AgR3
+!s100 3jnCY5_;6oh4bKCJLkT]K3
+R7
+33
+R8
+!i10b 1
+R17
+Z58 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datapath.vhd|
+Z59 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/datapath.vhd|
+!i113 1
+Z60 o-work work -2008 -explicit
+R13
+Astructural
+Z61 DEx4 work 6 mux_im 0 22 cPzUi1<V:eoD@:^=U<G:i3
+Z62 DEx4 work 10 mem_wb_div 0 22 VRRkgR3HFz@JD2ScHYVGd2
+R54
+Z63 DEx4 work 13 flushing_unit 0 22 K2[GP:GjXZM=g3]ml4@@K1
+Z64 DEx4 work 10 ex_mem_div 0 22 DClX=bLI7c0dNVMTV5U5X3
+Z65 DEx4 work 16 jump_target_unit 0 22 35Wf[Hj3?1:M0=hEcjWcc1
+R20
+Z66 DEx4 work 7 mux_2_1 0 22 IITk_RL41a@G<a;@1==OS3
+Z67 DEx4 work 7 mux_5_1 0 22 Ofeo<`X2;`7][A:WKNn>S1
+Z68 DEx4 work 15 forwarding_unit 0 22 <HojLeTN5gRH>feGOaWl=2
+Z69 DEx4 work 9 id_ex_div 0 22 JobE3oGoTbSA1jK;3YbEM0
+Z70 DEx4 work 13 register_file 0 22 2>QSm23LihbZoK]BeR4SK0
+Z71 DEx4 work 7 mux_3_1 0 22 ZoZ]H1EW`]]Hc5TcL3DZH1
+Z72 DEx4 work 9 if_id_div 0 22 fKY^VL;jYh<hT]jbN4AAk0
+Z73 DEx4 work 17 progmem_interface 0 22 @P`Sd22GKjR1D4CmJT`OH2
+Z74 DEx4 work 15 program_counter 0 22 ZM:_RXzIMe11LWAZXZglM2
+R1
+R2
+R3
+Z75 DEx4 work 8 datapath 0 22 Rf>hW1W@;;<CAZFz88AgR3
+!i122 963
+l135
+L58 143
+VB_[1:i>?5Y_fHz01zmAoc3
+!s100 Sigldd@187f]H`6L`QcAg2
+R7
+33
+R8
+!i10b 1
+R17
+R58
+R59
+!i113 1
+R60
+R13
+Edetector
+Z76 w1632447751
+R1
+R2
+R3
+!i122 989
+R4
+Z77 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/detector.vhd
+Z78 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/detector.vhd
+l0
+L6 1
+VHLSVDGM<=@h58I3Qmg_hG1
+!s100 RenFND?fj71H1WRGG2<YK0
+R7
+32
+R38
+!i10b 1
+R39
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/detector.vhd|
+Z80 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/detector.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+Z81 DEx4 work 8 detector 0 22 HLSVDGM<=@h58I3Qmg_hG1
+!i122 989
+l42
+L38 66
+VPDi6g72Vaz<7k<fR00P4=2
+!s100 2b<@fjA?j@TcV=jREJ0M<3
+R7
+32
+R38
+!i10b 1
+R39
+R79
+R80
+!i113 1
+R12
+R13
+Eex_mem_div
+Z82 w1631156631
+R2
+R3
+!i122 964
+R4
+Z83 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/EX_MEM_DIV.vhd
+Z84 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/EX_MEM_DIV.vhd
+l0
+L5 1
+VDClX=bLI7c0dNVMTV5U5X3
+!s100 hGCVbRF?@2;Rhc9nFaMaN3
+R7
+32
+R8
+!i10b 1
+R17
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/EX_MEM_DIV.vhd|
+Z86 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/EX_MEM_DIV.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R64
+!i122 964
+l125
+L48 134
+VR^G1bZ>LkGfkCYkzf9gjc1
+!s100 o7FLT2NGYLN8JfjNc=1b91
+R7
+32
+R8
+!i10b 1
+R17
+R85
+R86
+!i113 1
+R12
+R13
+Efault_injector
+Z87 w1632427670
+R2
+R3
+!i122 992
+R4
+Z88 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/fault_injector.vhd
+Z89 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/fault_injector.vhd
+l0
+L4 1
+VbcEaX_i3YAL]bMom_71eK2
+!s100 LJ2^NHUTi0@;JQI4UenAS2
+R7
+32
+R38
+!i10b 1
+R39
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/fault_injector.vhd|
+Z91 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/fault_injector.vhd|
+!i113 1
+R12
+R13
+Adescription
+R2
+R3
+Z92 DEx4 work 14 fault_injector 0 22 bcEaX_i3YAL]bMom_71eK2
+!i122 992
+l28
+L26 13
+VN<1U_hGEK9WjRA<5<a3zT2
+!s100 @C@RchN_5l^E:S6QeAYUQ2
+R7
+32
+R38
+!i10b 1
+R39
+R90
+R91
+!i113 1
+R12
+R13
+Eflushing_unit
+R0
+R2
+R3
+!i122 965
+R4
+Z93 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/flushing_unit.vhd
+Z94 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/flushing_unit.vhd
+l0
+L5 1
+VK2[GP:GjXZM=g3]ml4@@K1
+!s100 @L^;>iSEh07kWbmX_W@HV3
+R7
+32
+R8
+!i10b 1
+R17
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/flushing_unit.vhd|
+Z96 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/flushing_unit.vhd|
+!i113 1
+R12
+R13
+Abehavioural
+R2
+R3
+R63
+!i122 965
+l17
+L13 26
+VJ8G2WnfX5af75cH^55YF53
+!s100 OX6T?i1eag3LN6AJS6V4V1
+R7
+32
+R8
+!i10b 1
+R17
+R95
+R96
+!i113 1
+R12
+R13
+Eforwarding_unit
+R0
+R2
+R3
+!i122 966
+R4
+Z97 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/forwarding_unit.vhd
+Z98 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/forwarding_unit.vhd
+l0
+L5 1
+V<HojLeTN5gRH>feGOaWl=2
+!s100 h7kDkk<O=45dUYE_UU`]40
+R7
+32
+R8
+!i10b 1
+R17
+Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/forwarding_unit.vhd|
+Z100 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/forwarding_unit.vhd|
+!i113 1
+R12
+R13
+Astructural
+R2
+R3
+R68
+!i122 966
+l28
+L23 51
+V?Ge[9B[BjmhN?7`QaA@U?2
+!s100 D1jH67dQf<64SbEg7??nI1
+R7
+32
+R8
+!i10b 1
+R17
+R99
+R100
+!i113 1
+R12
+R13
+Eid_ex_div
+Z101 w1631156474
+R2
+R3
+!i122 967
+R4
+Z102 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/ID_EX_DIV.vhd
+Z103 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/ID_EX_DIV.vhd
+l0
+L6 1
+VJobE3oGoTbSA1jK;3YbEM0
+!s100 GQ5Gbo[kXh3gZ<U[am=@l3
+R7
+32
+R8
+!i10b 1
+R17
+Z104 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/ID_EX_DIV.vhd|
+Z105 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/ID_EX_DIV.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R69
+!i122 967
+l179
+L71 198
+VfVcOZdn8D<==foI_2obYB1
+!s100 b9HgnGnJ`TbnTj7F[LJfl3
+R7
+32
+R8
+!i10b 1
+R17
+R104
+R105
+!i113 1
+R12
+R13
+Eif_id_div
+Z106 w1631156504
+R2
+R3
+!i122 968
+R4
+Z107 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/IF_ID_DIV.vhd
+Z108 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/IF_ID_DIV.vhd
+l0
+L5 1
+VfKY^VL;jYh<hT]jbN4AAk0
+!s100 Fdhi<]b?Zb=X995U<FER23
+R7
+32
+R8
+!i10b 1
+R17
+Z109 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/IF_ID_DIV.vhd|
+Z110 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/IF_ID_DIV.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R72
+!i122 968
+l44
+L24 38
+V5lzLAL_K0V[TBz:<8fbY71
+!s100 ;8OP[=9M44C:<n[B5kPaL2
+R7
+32
+R8
+!i10b 1
+R17
+R109
+R110
+!i113 1
+R12
+R13
+Ejump_target_unit
+Z111 w1632925007
+R1
+R2
+R3
+!i122 969
+R4
+Z112 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/jump_target_unit.vhd
+Z113 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/jump_target_unit.vhd
+l0
+L6 1
+V35Wf[Hj3?1:M0=hEcjWcc1
+!s100 aCl@nUfSmjUl`lI[l_52K1
+R7
+32
+R8
+!i10b 1
+R17
+Z114 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/jump_target_unit.vhd|
+Z115 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/jump_target_unit.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+R65
+!i122 969
+l34
+L16 27
+VakQhVXzf<amjk_5C[G1:>0
+!s100 W`8QMcn821M3UJSgD[;OX3
+R7
+32
+R8
+!i10b 1
+R17
+R114
+R115
+!i113 1
+R12
+R13
+Emem_wb_div
+Z116 w1631156581
+R2
+R3
+!i122 970
+R4
+Z117 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/MEM_WB_DIV.vhd
+Z118 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/MEM_WB_DIV.vhd
+l0
+L5 1
+VVRRkgR3HFz@JD2ScHYVGd2
+!s100 OFL8l<fEO;1FNdT>miakI3
+R7
+32
+R8
+!i10b 1
+R17
+Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/MEM_WB_DIV.vhd|
+Z120 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/MEM_WB_DIV.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R62
+!i122 970
+l92
+L36 95
+Ve[Z8Y3H5XP?KzDGh6WoT;3
+!s100 ]fRLFLK[57[h5<5[SVPnN0
+R7
+32
+R8
+!i10b 1
+R17
+R119
+R120
+!i113 1
+R12
+R13
+Emicrocontroller
+Z121 w1632423760
+R2
+R3
+!i122 971
+R4
+Z122 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/microcontroller.vhd
+Z123 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/microcontroller.vhd
+l0
+L5 1
+VhaJ=_LA`i4SeQDXljbAQK2
+!s100 AXzJ^o_SdC2PDiLI32d7:2
+R7
+32
+R8
+!i10b 1
+R17
+Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/microcontroller.vhd|
+Z125 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/microcontroller.vhd|
+!i113 1
+R12
+R13
+Astructural
+R75
+R1
+R32
+R2
+R3
+Z126 DEx4 work 15 microcontroller 0 22 haJ=_LA`i4SeQDXljbAQK2
+!i122 971
+l65
+L47 30
+VX[aD_24zW[OMJKLlEWV1i1
+!s100 3W`dVeQKI0@Q6:K8i9AHY2
+R7
+32
+R8
+!i10b 1
+R17
+R124
+R125
+!i113 1
+R12
+R13
+Emux_2_1
+Z127 w1631154705
+R2
+R3
+!i122 972
+R4
+Z128 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_2_1.vhd
+Z129 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_2_1.vhd
+l0
+L4 1
+VIITk_RL41a@G<a;@1==OS3
+!s100 n3H25z=c<4ob4[>>l>CBD2
+R7
+32
+R8
+!i10b 1
+R17
+Z130 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_2_1.vhd|
+Z131 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_2_1.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R66
+!i122 972
+l13
+L12 4
+Vb9fBFo0Be3T]6n;Zd7mZ<3
+!s100 ;lJlCmDJ7FIY`FU[C[0JQ2
+R7
+32
+R8
+!i10b 1
+R17
+R130
+R131
+!i113 1
+R12
+R13
+Emux_32_1
+Z132 w1631154984
+R2
+R3
+!i122 975
+R4
+Z133 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_32_1.vhd
+Z134 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_32_1.vhd
+l0
+L4 1
+VeBGaonPX^=A=QOK^j98Ne3
+!s100 @J;5];U]W3WEJBl74`FJ00
+R7
+32
+R8
+!i10b 1
+R17
+Z135 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_32_1.vhd|
+Z136 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_32_1.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 8 mux_32_1 0 22 eBGaonPX^=A=QOK^j98Ne3
+!i122 975
+l14
+L13 35
+V7[hP>oX@6W?Hd:TRc:_HS3
+!s100 _3dNaHcb9F?YMZChQ2OcM0
+R7
+32
+R8
+!i10b 1
+R17
+R135
+R136
+!i113 1
+R12
+R13
+Emux_3_1
+R0
+R2
+R3
+!i122 973
+R4
+Z137 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_3_1.vhd
+Z138 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_3_1.vhd
+l0
+L4 1
+VZoZ]H1EW`]]Hc5TcL3DZH1
+!s100 `jkE8d4YSML8PHY0P@EjC2
+R7
+32
+R8
+!i10b 1
+R17
+Z139 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_3_1.vhd|
+Z140 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_3_1.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R71
+!i122 973
+l13
+L12 9
+VzaWeWc1[mH1eZ<^9h4Yh42
+!s100 z@A?DO2=_Q[6I3jIHLDam2
+R7
+32
+R8
+!i10b 1
+R17
+R139
+R140
+!i113 1
+R12
+R13
+Emux_5_1
+R0
+R2
+R3
+!i122 974
+R4
+Z141 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_5_1.vhd
+Z142 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_5_1.vhd
+l0
+L4 1
+VOfeo<`X2;`7][A:WKNn>S1
+!s100 ^@U@AH3WI4cLOlPOXMlGQ2
+R7
+32
+R8
+!i10b 1
+R17
+Z143 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_5_1.vhd|
+Z144 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/mux_5_1.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R67
+!i122 974
+l13
+L12 11
+V19k7h=_UW?J7PUW:dHMF?0
+!s100 @PH::c9I8H<o>0QNam1RS2
+R7
+32
+R8
+!i10b 1
+R17
+R143
+R144
+!i113 1
+R12
+R13
+Emux_im
+Z145 w1631223043
+R2
+R3
+!i122 993
+R4
+Z146 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/mux_IM.vhd
+Z147 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/mux_IM.vhd
+l0
+L4 1
+VcPzUi1<V:eoD@:^=U<G:i3
+!s100 k<X;SeilmAkU]mD[BH7XC3
+R7
+32
+R38
+!i10b 1
+R39
+Z148 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/mux_IM.vhd|
+Z149 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/mux_IM.vhd|
+!i113 1
+R12
+R13
+Adescription
+R2
+R3
+R61
+!i122 993
+l15
+L13 7
+VXVN1HdQQ<P4?cjXd9R>102
+!s100 6hc3_N>9Al<aW59hRiK7I0
+R7
+32
+R38
+!i10b 1
+R39
+R148
+R149
+!i113 1
+R12
+R13
+Eprogmem
+R22
+R1
+R2
+R3
+!i122 976
+R4
+R23
+R24
+l0
+L6 1
+VGSOV<cY@K]gT08Pz<23;S2
+!s100 zYT[NWe`U[^IZJ;3<Fk<j1
+R7
+32
+R8
+!i10b 1
+R17
+R25
+R26
+!i113 1
+R12
+R13
+Abehavioural_fibo
+R1
+R2
+R3
+R21
+!i122 976
+l227
+L226 39
+V?e`P6<DaFLIB5L>OYYNS;0
+!s100 ?cG^Q>_Hm1A>?GMaF3z2e0
+R7
+32
+R8
+!i10b 1
+R17
+R25
+R26
+!i113 1
+R12
+R13
+Abehavioural_jal
+R1
+R2
+R3
+R21
+!i122 917
+l156
+Z150 L155 30
+VcbjjJKhg@3VnTO8:B;FU53
+!s100 `k=eIm05H8PgOUV]g^3m41
+R7
+32
+!s110 1633035000
+!i10b 1
+!s108 1633035000.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1633034881
+Abehavioural_all_not_jump
+R1
+R2
+R3
+R21
+!i122 916
+l16
+L15 50
+V^dP1`mU0Rbfa3=ZWJ3jVh2
+!s100 iQ<;;2UG?iBd4ijzd`@Ph2
+R7
+32
+!s110 1633032295
+!i10b 1
+!s108 1633032294.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1633032241
+Abehavioural_jalr
+R1
+R2
+R3
+R21
+!i122 915
+l188
+L187 37
+V`aU^o@Cn70aI_O@RS<kaF0
+!s100 HgY?65bmhfYS9X5l7F<=a3
+R7
+32
+!s110 1633018738
+!i10b 1
+!s108 1633018738.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1633018720
+Abehavioural_3
+R1
+R2
+R3
+R21
+!i122 911
+l156
+R150
+VH_oP<53fBcE62:E;;YQ=o1
+!s100 2GBP5E2G=]SAY[:An^@L01
+R7
+32
+!s110 1633016445
+!i10b 1
+!s108 1633016445.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1633016441
+Abehavioural_bge
+R1
+R2
+R3
+R21
+!i122 904
+l134
+L133 21
+VMPDJUznTEz;]0YcMM1@9h1
+!s100 N^6o9<5PofP?z9ONlBY9h1
+R7
+32
+!s110 1632940873
+!i10b 1
+!s108 1632940873.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1632940859
+Abehavioural_blt
+R1
+R2
+R3
+R21
+!i122 903
+l112
+L111 21
+V7KML0jz7UoVNnQD67OU_;0
+!s100 9PS9NNMc4g3TAn;=VU]I>0
+R7
+32
+!s110 1632940707
+!i10b 1
+!s108 1632940707.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1632940702
+Abehavioural_bne
+R1
+R2
+R3
+R21
+!i122 901
+l90
+L89 21
+VoY_^f`Pmc4NJ0LbX@1L:b1
+!s100 :zb[g90?8T82nh3L22eaE1
+R7
+32
+!s110 1632940623
+!i10b 1
+!s108 1632940623.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1632940619
+Abehavioural_beq
+R1
+R2
+R3
+R21
+!i122 900
+l67
+L66 21
+VaSG1hGa]>meM]bQE@7V6Y2
+!s100 0X0kzn]I?hBX]9^J[LX8<0
+R7
+32
+!s110 1632940567
+!i10b 1
+!s108 1632940567.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1632940557
+Abehavioural_branch
+R1
+R2
+R3
+R21
+!i122 877
+l137
+L136 53
+VDSfWMJURR_6LU5K<_[:5Q3
+!s100 FSCQHi1l^OnH3mhT6IzTW1
+R7
+32
+!s110 1632939579
+!i10b 1
+!s108 1632939579.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1632939464
+Abehavioural_2
+R1
+R2
+R3
+R21
+!i122 853
+l36
+L35 21
+VID9gabdfU]BXGCJfSRX7a2
+!s100 54C39_khjZ2beW8N0:^O=2
+R7
+32
+!s110 1632933334
+!i10b 1
+!s108 1632933334.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1632933325
+Abehavioural_1
+R1
+R2
+R3
+R21
+!i122 846
+l15
+Z151 L14 19
+V4YHBWO4MFA9fEi]YedWXN2
+!s100 W_fK1zX3Ch_4nQKI@@>FY0
+R7
+32
+!s110 1632923429
+!i10b 1
+!s108 1632923429.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1632923403
+Abehavioural_5
+R1
+R2
+R3
+R21
+!i122 845
+l116
+L115 23
+V>^`Bhj]1CT@<0e^_;Gc773
+!s100 DNHIVPk:4mBHKGhz5gzd83
+R7
+32
+!s110 1632922847
+!i10b 1
+!s108 1632922847.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1632922840
+Abehavioural_4
+R1
+R2
+R3
+R21
+!i122 842
+l93
+L92 21
+VAYTe7Y1XW@`[=h[UWh]Ug3
+!s100 lg4h_Tf5<_IeF3n?9<?ze2
+R7
+32
+!s110 1632920004
+!i10b 1
+!s108 1632920004.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1632919992
+Abehavioural
+R1
+R2
+R3
+R21
+!i122 736
+l16
+L14 95
+VXkG@C@T5o]h`i;cHLeea;3
+!s100 BO^?`iB224ClBjHI5E<7P3
+R7
+32
+!s110 1632429057
+!i10b 1
+!s108 1632429057.000000
+R25
+R26
+!i113 1
+R12
+R13
+w1632333284
+Eprogmem_interface
+Z152 w1632924577
+R1
+R2
+R3
+!i122 977
+R4
+Z153 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/progmem_interface.vhd
+Z154 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/progmem_interface.vhd
+l0
+L6 1
+V@P`Sd22GKjR1D4CmJT`OH2
+!s100 iVFT4AJd83aE2dBkb86nQ3
+R7
+32
+R8
+!i10b 1
+R17
+Z155 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/progmem_interface.vhd|
+Z156 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/progmem_interface.vhd|
+!i113 1
+R12
+R13
+Abehavioural
+R21
+R1
+R2
+R3
+R73
+!i122 977
+l18
+L14 18
+V2TNPa9]W==1zMEM=DS]dW1
+!s100 >@4kBMhbfEUT_X;?j3LgA1
+R7
+32
+R8
+!i10b 1
+R17
+R155
+R156
+!i113 1
+R12
+R13
+Eprogram_counter
+Z157 w1631155781
+R1
+R2
+R3
+!i122 978
+R4
+Z158 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/program_counter.vhd
+Z159 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/program_counter.vhd
+l0
+L6 1
+VZM:_RXzIMe11LWAZXZglM2
+!s100 dcWB0JeWK:dQbUV>[Bf_i3
+R7
+32
+R8
+!i10b 1
+R17
+Z160 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/program_counter.vhd|
+Z161 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/program_counter.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+R74
+!i122 978
+l35
+L17 25
+VWNBjfM]^SfK9aRjH_YK2`2
+!s100 570Q93obbL^<O2<8d]14L2
+R7
+32
+R8
+!i10b 1
+R17
+R160
+R161
+!i113 1
+R12
+R13
+Ereg1b
+R0
+R2
+R3
+!i122 979
+R4
+Z162 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg1b.vhd
+Z163 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg1b.vhd
+l0
+L4 1
+VN3BLih2E;h[b[^zYeJ;T;3
+!s100 ;ef=9=DMELET21]Ob]C8j3
+R7
+32
+R8
+!i10b 1
+R17
+Z164 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg1b.vhd|
+Z165 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg1b.vhd|
+!i113 1
+R12
+R13
+Adescription
+R2
+R3
+DEx4 work 5 reg1b 0 22 N3BLih2E;h[b[^zYeJ;T;3
+!i122 979
+l14
+Z166 L12 17
+VXT2L78`OWJRgT0nQATJk73
+!s100 ?C:n[41DDI5JiIgE8o?XZ0
+R7
+32
+R8
+!i10b 1
+R17
+R164
+R165
+!i113 1
+R12
+R13
+Ereg2b
+R0
+R2
+R3
+!i122 980
+R4
+Z167 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg2b.vhd
+Z168 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg2b.vhd
+l0
+L4 1
+VcGU@D^VKd:VJVEg`2R3a>0
+!s100 GFAg9T7JYBHWVR><DZ5XA3
+R7
+32
+R38
+!i10b 1
+R17
+Z169 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg2b.vhd|
+Z170 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg2b.vhd|
+!i113 1
+R12
+R13
+Adescription
+R2
+R3
+DEx4 work 5 reg2b 0 22 cGU@D^VKd:VJVEg`2R3a>0
+!i122 980
+l14
+R166
+VSR3C4?S>kB>QM?aZWn80c0
+!s100 kgF9De4NCCRbL:146MERR3
+R7
+32
+R38
+!i10b 1
+R17
+R169
+R170
+!i113 1
+R12
+R13
+Ereg32b
+R0
+R2
+R3
+!i122 984
+R4
+Z171 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg32b.vhd
+Z172 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg32b.vhd
+l0
+L4 1
+VIOM;?e1[b1Jo9QVRjn2M21
+!s100 [h8D?7;A[EWlP?4Cd>o2X3
+R7
+32
+R38
+!i10b 1
+R39
+Z173 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg32b.vhd|
+Z174 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg32b.vhd|
+!i113 1
+R12
+R13
+Adescription
+R2
+R3
+DEx4 work 6 reg32b 0 22 IOM;?e1[b1Jo9QVRjn2M21
+!i122 984
+l14
+R166
+V80KS1L664DmZGP2<38l_?0
+!s100 `SMBda8f`Gd2Gb]H[FBBU3
+R7
+32
+R38
+!i10b 1
+R39
+R173
+R174
+!i113 1
+R12
+R13
+Ereg32b_falling_edge
+R0
+R2
+R3
+!i122 985
+R4
+Z175 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg32b_falling_edge.vhd
+Z176 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg32b_falling_edge.vhd
+l0
+L4 1
+V`K3jh0hFP<>O9>;gXQU>Q0
+!s100 eKK1P30ZM^4=XkEB8n=ZT1
+R7
+32
+R38
+!i10b 1
+R39
+Z177 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg32b_falling_edge.vhd|
+Z178 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg32b_falling_edge.vhd|
+!i113 1
+R12
+R13
+Adescription
+R2
+R3
+DEx4 work 19 reg32b_falling_edge 0 22 `K3jh0hFP<>O9>;gXQU>Q0
+!i122 985
+l14
+R166
+V4F3e7:3QD9Z1jF1Tj2mKk3
+!s100 @FETbKi2UH7mh5YMG:`?D1
+R7
+32
+R38
+!i10b 1
+R39
+R177
+R178
+!i113 1
+R12
+R13
+Ereg3b
+R0
+R2
+R3
+!i122 981
+R4
+Z179 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg3b.vhd
+Z180 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg3b.vhd
+l0
+L4 1
+VbifJYKdz>F3G0jJS]Bbk[3
+!s100 d><8Pj2WNKQ=d_TJX:W>J1
+R7
+32
+R38
+!i10b 1
+R39
+Z181 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg3b.vhd|
+Z182 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg3b.vhd|
+!i113 1
+R12
+R13
+Adescription
+R2
+R3
+DEx4 work 5 reg3b 0 22 bifJYKdz>F3G0jJS]Bbk[3
+!i122 981
+l14
+R166
+V;`<?5c[1D<7=jDJS>ADcS3
+!s100 IL_`2?MzPe>E?8Jf?9Bg@3
+R7
+32
+R38
+!i10b 1
+R39
+R181
+R182
+!i113 1
+R12
+R13
+Ereg4b
+R0
+R2
+R3
+!i122 982
+R4
+Z183 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg4b.vhd
+Z184 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg4b.vhd
+l0
+L4 1
+Vf`T<T9BKDYn3EnZJzhRRi0
+!s100 QOUbLR4bb6MP5?5TRT4[<2
+R7
+32
+R38
+!i10b 1
+R39
+Z185 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg4b.vhd|
+Z186 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg4b.vhd|
+!i113 1
+R12
+R13
+Adescription
+R2
+R3
+DEx4 work 5 reg4b 0 22 f`T<T9BKDYn3EnZJzhRRi0
+!i122 982
+l14
+R166
+VC71MezfSOh?KYZPaSe;Wz0
+!s100 DzzTRGY:1B5nM>LOB]Akf1
+R7
+32
+R38
+!i10b 1
+R39
+R185
+R186
+!i113 1
+R12
+R13
+Ereg5b
+Z187 w1631156384
+R2
+R3
+!i122 983
+R4
+Z188 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg5b.vhd
+Z189 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg5b.vhd
+l0
+L6 1
+V4i>i4[7LjR@iIhl5`4g9?3
+!s100 @QYHf1KGkLK]hcmZ75iM91
+R7
+32
+R38
+!i10b 1
+R39
+Z190 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg5b.vhd|
+Z191 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/reg5b.vhd|
+!i113 1
+R12
+R13
+Adescription
+R2
+R3
+DEx4 work 5 reg5b 0 22 4i>i4[7LjR@iIhl5`4g9?3
+!i122 983
+l16
+L14 17
+VMTP35`FYze<;TJ>?cA3H02
+!s100 e;`98R?Y7MR3WR?jH<hiM0
+R7
+32
+R38
+!i10b 1
+R39
+R190
+R191
+!i113 1
+R12
+R13
+Ereg_1b
+Z192 w1631211652
+R2
+R3
+!i122 990
+R4
+Z193 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/reg_1b.vhd
+Z194 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/reg_1b.vhd
+l0
+L4 1
+V?_VoGJ>:hzD6fh4e;S`J^0
+!s100 ?D6lTFkP[8:b5d^>DfAV]3
+R7
+32
+R38
+!i10b 1
+R39
+Z195 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/reg_1b.vhd|
+Z196 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/reg_1b.vhd|
+!i113 1
+R12
+R13
+Adescription
+R2
+R3
+Z197 DEx4 work 6 reg_1b 0 22 ?_VoGJ>:hzD6fh4e;S`J^0
+!i122 990
+l16
+R151
+V6e]_aAaWSWDaX>R1Jge^82
+!s100 aPYXVGf3CXGMYT_zUFMnY1
+R7
+32
+R38
+!i10b 1
+R39
+R195
+R196
+!i113 1
+R12
+R13
+Eregister_file
+Z198 w1631156051
+R2
+R3
+!i122 986
+R4
+Z199 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/register_file.vhd
+Z200 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/register_file.vhd
+l0
+L5 1
+V2>QSm23LihbZoK]BeR4SK0
+!s100 WAYVGFXPKaQzN;RH]5>]A3
+R7
+32
+R38
+!i10b 1
+R39
+Z201 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/register_file.vhd|
+Z202 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV/register_file.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R70
+!i122 986
+l82
+L20 188
+V`_Y0FN`dVD4n[e4JLo2YN1
+!s100 je]9Z:X3[hDJ?>LKXm4=^2
+R7
+32
+R38
+!i10b 1
+R39
+R201
+R202
+!i113 1
+R12
+R13
+Erv_dl
+Z203 w1632430204
+R1
+R2
+R3
+!i122 994
+R4
+Z204 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/RV_DL.vhd
+Z205 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/RV_DL.vhd
+l0
+L6 1
+V4@3V6dJn_naX9^GGQIiS21
+!s100 hMemD7O3WMMb5bKUUANbX3
+R7
+32
+R38
+!i10b 1
+R39
+Z206 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/RV_DL.vhd|
+Z207 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/RV_DL/RV_DL.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R73
+R126
+Z208 DEx4 work 12 top_detector 0 22 PgFBVVmUnG@8M9GG1XBY53
+R92
+R1
+R2
+R3
+DEx4 work 5 rv_dl 0 22 4@3V6dJn_naX9^GGQIiS21
+!i122 994
+l79
+L37 217
+Vf3egKiDbZn_Ti<kfF9hZE2
+!s100 ?A^S3;o6>j_n<Ebll^O5?0
+R7
+32
+R38
+!i10b 1
+R39
+R206
+R207
+!i113 1
+R12
+R13
+Etb_controller_rv
+Z209 w1631843325
+R1
+R2
+R3
+!i122 987
+R4
+Z210 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_controller_RV.vhd
+Z211 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_controller_RV.vhd
+l0
+L19 1
+VK;1HCV5I6:[]GAnNMki2^3
+!s100 Z:OnKLjQZRRAeag6A[TU23
+R7
+32
+R38
+!i10b 1
+R39
+Z212 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_controller_RV.vhd|
+Z213 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_controller_RV.vhd|
+!i113 1
+R12
+R13
+Abeh
+R32
+R1
+R2
+R3
+DEx4 work 16 tb_controller_rv 0 22 K;1HCV5I6:[]GAnNMki2^3
+!i122 987
+l44
+L22 221
+Va@Q=8WRd:E?U<ZVHlC<VP2
+!s100 Gk_mMfz`dhZ6_g=kF9d:g3
+R7
+32
+R38
+!i10b 1
+R39
+R212
+R213
+!i113 1
+R12
+R13
+Etb_rv
+Z214 w1633017187
+R1
+R2
+R3
+!i122 996
+R4
+Z215 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_RV.vhd
+Z216 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_RV.vhd
+l0
+L7 1
+VCB;Q7ODlQ2JkiKnSe<OUC2
+!s100 fU6FXPQDojIn=Im22D7hN3
+R7
+32
+R38
+!i10b 1
+R39
+Z217 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_RV.vhd|
+Z218 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_RV.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R126
+R1
+R2
+R3
+Z219 DEx4 work 5 tb_rv 0 22 CB;Q7ODlQ2JkiKnSe<OUC2
+!i122 996
+l49
+Z220 L10 160
+Z221 V`>HV]bi>PoFgPM=LVa7g=3
+Z222 !s100 kh`MEY6zY8YlLSW`1UIAd0
+R7
+32
+R38
+!i10b 1
+R39
+R217
+R218
+!i113 1
+R12
+R13
+Etb_rv_dl
+Z223 w1632973101
+R1
+R2
+R3
+!i122 995
+R4
+Z224 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_RV_DL.vhd
+Z225 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_RV_DL.vhd
+l0
+L7 1
+V=H9:VHaJgm=XTnN65eBH?1
+!s100 ;8dADNnLFFVCJUfeRfYoV3
+R7
+32
+R38
+!i10b 1
+R39
+Z226 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_RV_DL.vhd|
+Z227 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/sim/tb/tb_RV_DL.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R1
+R2
+R3
+DEx4 work 8 tb_rv_dl 0 22 =H9:VHaJgm=XTnN65eBH?1
+!i122 995
+l71
+L10 339
+V0<2V:@S?21HGlHR6[giOX2
+!s100 nCm=B=Vdaj@]d<_9To@Al0
+R7
+32
+R38
+!i10b 1
+R39
+R226
+R227
+!i113 1
+R12
+R13
+Etop_detector
+Z228 w1632420720
+R1
+R2
+R3
+!i122 991
+R4
+Z229 8/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/top_detector.vhd
+Z230 F/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/top_detector.vhd
+l0
+L6 1
+VPgFBVVmUnG@8M9GG1XBY53
+!s100 T8k^J6iFD93mKBzJh[88U0
+R7
+32
+R38
+!i10b 1
+R39
+Z231 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/top_detector.vhd|
+Z232 !s107 /home/leds/Desktop/VHDL/RV_DL/RISC_V_DUAL_LOCKSTEP/src/detector/top_detector.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R81
+R197
+R34
+R35
+R42
+R1
+R2
+R3
+R208
+!i122 991
+l39
+L34 51
+VYJ[JzlzeHRmcWIUOL?oC73
+!s100 Td:dN^Xfam;cVhGUeLXI]1
+R7
+32
+R38
+!i10b 1
+R39
+R231
+R232
+!i113 1
+R12
+R13
